@@ -1,10 +1,12 @@
 # Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
 BR ------------------------------------------------------------------------------
+
 Meu nome é Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Me formei em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos.
 Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
 Se preferir dar uma olhada no meu perfil no Linkedin basta clicar abaixo. Se quiser pode mandar mensagem!
 
 EN ----------------------------------------------------------------------------
+
 Meu nome é Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Me formei em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos.
 Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
 Se preferir dar uma olhada no meu perfil no Linkedin basta clicar abaixo. Se quiser pode mandar mensagem!

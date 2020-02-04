@@ -1,9 +1,11 @@
 ## Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
 BR__________________________________________________________________________________________________________________________
+
 Sou Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Sou formado em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no Linkedin basta clicar abaixo. Se quiser pode mandar mensagem!
 
 EN__________________________________________________________________________________________________________________________
+
 I'm Renan Meirelles, from brazil, and despite of being only 30 years old, I've been working on the Technology area for more than 10 years - more specifically as a Business Process Management professional (CBPP Certified). My graduation was in  Technology for Business Management at FATEC-SP (a Technologist institution of São Paulo state). My subsequent graduations were the experiences i've been living trough those years. Those details I'll tell you below, in this same document!
 If you wanna check my Linkedin Profile, just click the button below! You can send me a message that I'll answer!
 

@@ -1,21 +1,45 @@
-# Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
-BR ------------------------------------------------------------------------------
-
-Meu nome é Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Me formei em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos.
-Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
+## Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
+BR_______________________________________________________________________________________________________________________
+Sou Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Sou formado em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no Linkedin basta clicar abaixo. Se quiser pode mandar mensagem!
 
-EN ----------------------------------------------------------------------------
+EN_______________________________________________________________________________________________________________________
+I'm Renan Meirelles, from brazil, and despite of being only 30 years old, I've been working on the Technology area for more than 10 years - more specifically as a Business Process Management professional (CBPP Certified). My graduation was in  Technology for Business Management at FATEC-SP (a Technologist institution of São Paulo state). My subsequent graduations were the experiences i've been living trough those years. Those details I'll tell you below, in this same document!
+If you wanna check my Linkedin Profile, just click the button below! You can send me a message that I'll answer!
 
-Meu nome é Renan Meirelles, brasileiro, e apesar da pouca idade (30), trabalho há mais de 10 anos na área de Tecnologia - mais especificamente como Analista de Processos de Negócios (certificado CBPP). Me formei em Informática para Gestão de Negócios pela FATEC - Faculdade de Tecnologia de São Paulo. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos.
-Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
-Se preferir dar uma olhada no meu perfil no Linkedin basta clicar abaixo. Se quiser pode mandar mensagem!
-[![Linkedin](https://miro.medium.com/max/2656/1*OIsAIqhf49hatQiJFnL9xw.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
+
+[![Linkedin](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83896920_630999031008245_1134907814766968832_n.png?_nc_cat=106&_nc_ohc=UGkaxYLiu6MAX-Wi9P8&_nc_ht=scontent.fvcp2-1.fna&oh=6fdb1e508658a2fbffdad9617eff875c&oe=5ED9FFE1)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
 # Skills!
+```sh
+BPM - Business Process Management (Gerenciamento de Processos de Negócios)
+```
+    - Import a HTML file and watch it magically convert to Markdown
+    - Drag and drop images (requires your Dropbox account be linked)
+    
 
+```sh
+REQUISITOS DO PRODUTO | PRODUCT REQUIREMENTS
+```
+    - Import a HTML file and watch it magically convert to Markdown
+    - Drag and drop images (requires your Dropbox account be linked)
+    
+```sh
+BLOCKCHAIN
+```
+     - Documentação de API Gateways para Bitcoin e para Ethereum;
+     - Documentação de Processos de Negócios identificando partes do processo que sejam interessante a interação com uma Blockchain, tanto pública quanto privada;
+      - Especificação de requisitos de dApps - 
+      - Conhecimento em produtos e protocolos de Identificação em Blockchain (Decentralized Identity);
+      - Conhecimento em produtos e protocolos de Identificação em Blockchain (Decentralized Identity);
+        - Documentação de solução para geração de Carteiras em Ethereum;
+        - Conhecimento e especificação (documentação) de Tokens nos padrões ERC20 e 223 - definição de Roles, funções padrão (ex. COLOCAR LINK 4CADIA);
+        - Testes em SmartContracts e Tokens utilizando Remix, Etherscan e Ganache;
+    
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
+
+# Ferramentas! | Tools!
 
 Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
   - BizAgi - vasta experiência!Utilizei em mais de 90% dos projetos que passei. Com ele consigo gerar uma documentação completíssima da solução;
@@ -23,14 +47,18 @@ Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
   - Outras ferramentas de BPM e outros tipos de diagramação - TIBCO, IBM BPM, ARIS, Oracle 11g, Bonita Soft, Draw.io, dentre outros;
   - Ferramentas para Especificação - Caliber, Enterprise Architect, e documentação à moda antiga;
   - Ferramentas para Gestão - JIRA e Trello (Atlassian) e pacote Office (Project, Planilhas, etc);
+  - Ferramentas para Prototipação - Figma, Pencil, Draw.io, Pidoco e outros;
 
+# Como eu trabalho! | How I work!
 
-
-
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
+  - Levantamentos iniciais e modelagem de Processos - DESCREVER
+  - Apresentações iniciais dos Processos e alterações necessárias;
+  - Validação do Processo de Negócio
+  - Identificação do Escopo (Big Picture) - Nesse momento é possível, através dos processos, identificar as grandes partes (módulos/Epics) que serão necessários desenvolver.
+  - Identificação das Histórias de Usuário (ou Casos de Uso, se preferir) que deverão ser desenvolvidos pelas equipes de Devs;
+  - Detalhamento profundo das Histórias de Usuário - DESCREVER
+  - Se necessário, definição dos WireFrames / Prototipação estática das telas do sistema;
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
@@ -44,8 +72,8 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Tech
-
+### Projetos / Projects
+Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
 Dillinger uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
@@ -61,30 +89,11 @@ Dillinger uses a number of open source projects to work properly:
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
-### Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-$ cd dillinger
-$ npm install -d
-$ node app
-```
-
-For production environments...
-
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
-```
-
-### Plugins
+### Documentação / Documentation
 
 Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
+| Plugin | Link |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
@@ -93,66 +102,10 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-
-### Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
 First Tab:
 ```sh
-$ node app
+BPM - Business Process Management (Gerenciamento de Processos de Negócio)
 ```
-
-Second Tab:
-```sh
-$ gulp watch
-```
-
-(optional) Third:
-```sh
-$ karma test
-```
-#### Building for source
-For production release:
-```sh
-$ gulp build --prod
-```
-Generating pre-built zip archives for distribution:
-```sh
-$ gulp build dist --prod
-```
-### Docker
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
-
-```sh
-cd dillinger
-docker build -t joemccann/dillinger:${package.json.version} .
-```
-This will create the dillinger image and pull in the necessary dependencies. Be sure to swap out `${package.json.version}` with the actual version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on your host. In this example, we simply map port 8000 of the host to port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
-```
-
-Verify the deployment by navigating to your server address in your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-#### Kubernetes + Google Cloud
-
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-
 
 ### Todos
 
@@ -167,26 +120,8 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+
+

@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
 
-If you don't speak portuguese, please click [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md**)!!!
+If you don't speak portuguese, please click [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
 
 Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certificado CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!

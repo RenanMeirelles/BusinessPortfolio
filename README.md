@@ -12,8 +12,9 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 ```sh
 BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
+[![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
 - **Estudo** do mercado em que o cliente está inserido e documentações iniciais;
-- **Reuniões** iniciais para **entendimento dos negócios** e das necessidades do cliente;
+- **Reuniões** iniciais para **entendimento dos negócios** e das necessidades/objetivos do cliente;
 - **Entendimento rápido**, principalmente da **visão macro** dos processos de negócios;
 - **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado**;
 - Facilidade na **condução de reuniões** para **levantamento de processos**;

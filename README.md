@@ -26,9 +26,9 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 - Conhecimento de **diversos tipos de soluções** que possam atender ao negócio da melhor maneira possível, evitando que o cliente contrate soluções muito caras sem um retorno real ao negócio.
 
 ```sh
-REQUISITOS DO PRODUTO
+REQUISITOS DE PRODUTO
 ```
-![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84243966_843777672754348_2432494121529638912_n.png?_nc_cat=102&_nc_ohc=e7qMTn3yt7wAX8Ey_kG&_nc_ht=scontent.fvcp2-1.fna&oh=d569de7f8d60ed2b15e62bf38092948d&oe=5ECCE298)
+![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
 
 - Identificação de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação de **Requisitos Não Funcionais**;
@@ -64,6 +64,7 @@ BLOCKCHAIN
 ```sh
 SMART CITIES
 ```
+![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
 - **Levantamento e modelagem dos Processos de Negócios** de todas as pontas envolvidas - estudo dos Procedimentos Operacionais Padrão da maneira atual (**As Is**);
 - **Modelagem e Documentação de Processos de Negócios** propostos (**To Be**) voltados para aplicações de **Smart Cities**, preferencialmente utilizando ferramentas da **IBM (Intelligent Operations Center)** em **Salas de Situação**;
 - Identificação dos sistemas de **Fontes de Dados** para integração e execução automática ou manual dos **Procedimentos Operacionais Padrão (SOP's)**;

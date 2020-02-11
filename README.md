@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
 
-If you don't speak portuguese, please click [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
+**If you don't speak portuguese, please click** [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
 
 Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certificado CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
@@ -28,6 +28,8 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```sh
 REQUISITOS DO PRODUTO
 ```
+![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84243966_843777672754348_2432494121529638912_n.png?_nc_cat=102&_nc_ohc=e7qMTn3yt7wAX8Ey_kG&_nc_ht=scontent.fvcp2-1.fna&oh=d569de7f8d60ed2b15e62bf38092948d&oe=5ECCE298)
+
 - Identificação de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação de **Requisitos Não Funcionais**;
 - Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
@@ -39,6 +41,8 @@ REQUISITOS DO PRODUTO
 ```sh
 BLOCKCHAIN
 ```
+![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
+
 - Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
 - Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
 - Conhecimento em produtos e protocolos de **Identidade Descentralizada** em Blockchain (Decentralized Identity);

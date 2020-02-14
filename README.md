@@ -100,7 +100,7 @@ CIDADES INTELIGENTES SÃO BLABLABLABLABLLA
 | Smart Cities Project | Link |
 | ------ | ------ |
 | Farming and Epidemics - Smart Cities - IOC | https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list |
-| City Operational Control Center (flooding, landslides, accidents, tree falls...) | **AS IS**: https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#diagram/9e4a04a3-ca03-4f13-9471-c8f195dae2f4    **TO BE**:  SOON|
+| City Operational Control Center (flooding, landslides, accidents, tree falls...) | [**AS IS**]: (https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list)    **TO BE**:  SOON|
 | Traffic Monitoring Agency | PUBLICAR |
 
 

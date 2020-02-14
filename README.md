@@ -13,6 +13,8 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
 [![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
+Segundo o **CBOK 3.0**, resumidamente, o **Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+
 - **Estudo** do mercado em que o cliente está inserido e documentações iniciais;
 - **Reuniões** iniciais para **entendimento dos negócios** e das necessidades/objetivos do cliente;
 - **Entendimento rápido**, principalmente da **visão macro** dos processos de negócios;
@@ -29,10 +31,12 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 REQUISITOS DE PRODUTO
 ```
 ![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
+A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo.  Nesse momento entra em cena a identificação dos **Épicos (módulos)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e valor para o cliente/usuário!
 
 - Identificação de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação de **Requisitos Não Funcionais**;
 - Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
+- Identificação das **Propostas de Valor** e possívelmente um **MVP**;
 - Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
@@ -42,6 +46,8 @@ REQUISITOS DE PRODUTO
 BLOCKCHAIN
 ```
 ![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
+
+**BLOCKCHAIN é definitivamente uma tecnologia que vem ganhando corpo e deve representar uma virada de página da Web2.0 para a Web3.0. Os pilares dessa tecnologia são: Descentralização, Confiabilidade, Imutabilidade... Falar sobre: SmartContracts, Transações de Valor, Tokenização . . .**
 
 - Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
 - Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
@@ -64,12 +70,22 @@ BLOCKCHAIN
 ```sh
 SMART CITIES
 ```
-![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
+![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
+CIDADES INTELIGENTES SÃO BLABLABLABLABLLA
+
+
 - **Levantamento e modelagem dos Processos de Negócios** de todas as pontas envolvidas - estudo dos Procedimentos Operacionais Padrão da maneira atual (**As Is**);
 - **Modelagem e Documentação de Processos de Negócios** propostos (**To Be**) voltados para aplicações de **Smart Cities**, preferencialmente utilizando ferramentas da **IBM (Intelligent Operations Center)** em **Salas de Situação**;
 - Identificação dos sistemas de **Fontes de Dados** para integração e execução automática ou manual dos **Procedimentos Operacionais Padrão (SOP's)**;
 - Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
 - Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
+
+| Project | Link |
+| ------ | ------ |
+| Farming and Epidemics - Smart Cities - IOC | https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list |
+| City Operational Control Center (flooding, landslides, accidents, tree falls...) | PUBLICAR |
+| Traffic Monitoring Agency | PUBLICAR |
+
 
 ```sh
 METODOLOGIAS DE TRABALHO

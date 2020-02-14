@@ -27,6 +27,11 @@ Segundo o **CBOK 3.0**, resumidamente, o **Gerenciamento de Processos de Negóci
 - Facilidade na identificação de **gargalos** e proposição de **soluções rápidas** e **viáveis**;
 - Conhecimento de **diversos tipos de soluções** que possam atender ao negócio da melhor maneira possível, evitando que o cliente contrate soluções muito caras sem um retorno real ao negócio.
 
+| BPM Project | Link |
+| ------ | ------ |
+|  |  |
+| | PUBLICAR |
+|  | PUBLICAR |
 ```sh
 REQUISITOS DE PRODUTO
 ```
@@ -41,7 +46,12 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
 - Elaboração dos casos de Testes utilizando linguagem conforme necessário (Casos de Testes ou BDD);
-
+- 
+| Project Documentation  | Link |
+| ------ | ------ |
+| aaaa | aaaaa |
+| aaa | PUBLICAR |
+| aaaaa | PUBLICAR |
 ```sh
 BLOCKCHAIN
 ```
@@ -66,6 +76,13 @@ BLOCKCHAIN
     -  **Governança e Organizações**: Aragon, Democracy Earth, District0x . . .
     -  **Plataformas Descentralizadas**: Bounties Network, ...
     -  **Tokens**: OpenZeppelin
+    
+| Blockchain Project | Link |
+| ------ | ------ |
+| Decentralized Identity |  |
+| Name Service | PUBLICAR |
+| Index and Search Content on Web3.0 | PUBLICAR |
+| Ethereum and Bitcoin Gateways | PUBLICAR |
 
 ```sh
 SMART CITIES
@@ -80,10 +97,10 @@ CIDADES INTELIGENTES SÃO BLABLABLABLABLLA
 - Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
 - Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
 
-| Project | Link |
+| Smart Cities Project | Link |
 | ------ | ------ |
 | Farming and Epidemics - Smart Cities - IOC | https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list |
-| City Operational Control Center (flooding, landslides, accidents, tree falls...) | PUBLICAR |
+| City Operational Control Center (flooding, landslides, accidents, tree falls...) | **AS IS**: https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#diagram/9e4a04a3-ca03-4f13-9471-c8f195dae2f4    **TO BE**:  SOON|
 | Traffic Monitoring Agency | PUBLICAR |
 
 

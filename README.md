@@ -1,8 +1,9 @@
 ## Bem vindo ao meu Portfólio! | Welcome to my Job Portfolio!
 
-**If you don't speak portuguese, please click** [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
+**If you don't understand portuguese, please click** [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
 
-Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certificado CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
+E aí, visitante!
+Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
 
 [![Linkedin](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83896920_630999031008245_1134907814766968832_n.png?_nc_cat=106&_nc_ohc=UGkaxYLiu6MAX-Wi9P8&_nc_ht=scontent.fvcp2-1.fna&oh=6fdb1e508658a2fbffdad9617eff875c&oe=5ED9FFE1)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
@@ -13,10 +14,10 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
 [![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
-Segundo o **CBOK 3.0**, resumidamente, o **Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
 
 - **Estudo** do mercado em que o cliente está inserido e documentações iniciais;
-- **Reuniões** iniciais para **entendimento dos negócios** e das necessidades/objetivos do cliente;
+- **Reuniões**  para **entendimento dos negócios** e das necessidades/objetivos do cliente;
 - **Entendimento rápido**, principalmente da **visão macro** dos processos de negócios;
 - **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado**;
 - Facilidade na **condução de reuniões** para **levantamento de processos**;
@@ -41,12 +42,12 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Identificação de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação de **Requisitos Não Funcionais**;
 - Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
-- Identificação das **Propostas de Valor** e possívelmente um **MVP**;
+- Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
 - Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
-- Elaboração dos casos de Testes utilizando linguagem conforme necessário (Casos de Testes ou BDD);
-- 
+- Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
+
 | Project Documentation  | Link |
 | ------ | ------ |
 | aaaa | aaaaa |

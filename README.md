@@ -30,9 +30,9 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 
 | BPM Project | Link |
 | ------ | ------ |
-|  |  |
-| | PUBLICAR |
-|  | PUBLICAR |
+| Processos Defesa Agropecuária Estadual (Smart Cities) | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
+|Processos Centro de Controle e Operações (Smart Cities) | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE] |
+| Processos Hackathon Consensys Blockchain (Ethereum) - Plásticos e Poluição  | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
 ```sh
 REQUISITOS DE PRODUTO
 ```
@@ -46,7 +46,7 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
-- Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
+- Elaboração de **cenários de Testes** utilizando linguagem apropriada conforme necessário (Casos de Testes ou BDD);
 
 | Project Documentation  | Link |
 | ------ | ------ |
@@ -58,7 +58,7 @@ BLOCKCHAIN
 ```
 ![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
 
-**BLOCKCHAIN é definitivamente uma tecnologia que vem ganhando corpo e deve representar uma virada de página da Web2.0 para a Web3.0. Os pilares dessa tecnologia são: Descentralização, Confiabilidade, Imutabilidade... Falar sobre: SmartContracts, Transações de Valor, Tokenização . . .**
+Blockchain é uma tecnologia de registro distribuído que visa a **descentralização** como medida de segurança. São bases de registros e dados distribuídos e compartilhados que têm a função de criar um índice global para todas as transações que ocorrem em um determinado mercado. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, que cria **consenso e confiança** na comunicação direta entre **duas partes (P2P), ou seja, sem o intermédio de terceiros**. O conceito de blockchain vem evoluindo desde o início dos anos 2000, sendo alavancada pelo boom do Bitcoin. Porém, muito ainda está por vir - o conceito dos **SmartContracts** criados através da blockchain **Ethereum - e atualmente presente em outras blockchains privadas e públicas -** está ampliando o mercado para essa tecnologia. DApps (Aplicativos Descentralizados) estão sendo criados para facilitar a interação do usuário com esse novo mundo da **Web3.0** que está só começando.
 
 - Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
 - Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
@@ -80,10 +80,11 @@ BLOCKCHAIN
     
 | Blockchain Project | Link |
 | ------ | ------ |
-| Decentralized Identity |  |
-| Name Service | PUBLICAR |
-| Index and Search Content on Web3.0 | PUBLICAR |
-| Ethereum and Bitcoin Gateways | PUBLICAR |
+| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processos de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
+| Identidade Descentralizada (DID) | PUBLICAR |
+| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| PUBLICAR |
+| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 | PUBLICAR |
+| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | PUBLICAR |
 
 ```sh
 SMART CITIES
@@ -101,7 +102,7 @@ CIDADES INTELIGENTES SÃO BLABLABLABLABLLA
 | Smart Cities Project | Link |
 | ------ | ------ |
 | Farming and Epidemics - Smart Cities - IOC | https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list |
-| City Operational Control Center (flooding, landslides, accidents, tree falls...) | [**AS IS**]: (https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list)    **TO BE**:  SOON|
+| City Operational Control Center (flooding, landslides, accidents, tree falls...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
 | Traffic Monitoring Agency | PUBLICAR |
 
 

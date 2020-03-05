@@ -31,10 +31,9 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 
 | BPM Project | Link |
 | ------ | ------ |
-| Processos Defesa Agropecuária Estadual (Smart Cities) |[As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
-|Processos Centro de Controle e Operações - Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
-|Hackathon - Blockchain for Social Impact Consensys - Plásticos e Poluição|[TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0|
-
+| Processos Defesa Agropecuária Estadual - Smart Cities | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
+|Processos Centro de Controle e Operações - Smart Cities | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE] |
+| Hackathon - Blockchain for Social Impact Consensys - Plásticos e Poluição  | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
 ```sh
 REQUISITOS DE PRODUTO
 ```
@@ -84,8 +83,8 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
     
 | Blockchain Project | Link |
 | ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processos de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Identidade Descentralizada (DID) | PUBLICAR |
+| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
+| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
 | Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| PUBLICAR |
 | Ferramentas de Indexação e Busca de Conteúdo na Web3.0 | PUBLICAR |
 | Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | PUBLICAR |

@@ -93,19 +93,19 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 SMART CITIES
 ```
 ![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
-CIDADES INTELIGENTES SÃO BLABLABLABLABLLA
+**Smart Cities** é outro conceito, assim como Blockchain, que vem ganhando notoriedade no mundo todo. Nosso planeta está saturado de problemas e chegando ao seu limite. **Cidades extremamente lotadas, trânsito, catástrofes ambientais, epidemias**, tudo resultado da influência humana. Mas a tecnologia está acompanhando essa evolução, tentando achar meios de minimizar esses problemas, trazendo maior qualidade de vida tanto para o meio ambiente quanto para a população. Nesse cenário, surgiu o conceito de **Cidades Inteligentes** - soluções utilizando **IoT**, **Blockchain**, **Inteligencia Artificial** e outras, combinadas com melhorias de processos entre órgãos governamentais, grandes empresas e cidadãos, que visam atacar problemas corriqueiros de nosso dia a dia.
 
 
 - **Levantamento e modelagem dos Processos de Negócios** de todas as pontas envolvidas - estudo dos Procedimentos Operacionais Padrão da maneira atual (**As Is**);
-- **Modelagem e Documentação de Processos de Negócios** propostos (**To Be**) voltados para aplicações de **Smart Cities**, preferencialmente utilizando ferramentas da **IBM (Intelligent Operations Center)** em **Salas de Situação**;
+- **Modelagem e Documentação de Processos de Negócios** propostos (**To Be**) voltados para aplicações de **Smart Cities**, preferencialmente utilizando ferramentas da **IBM (Intelligent Operations Center)** em **Centros de Operação**;
 - Identificação dos sistemas de **Fontes de Dados** para integração e execução automática ou manual dos **Procedimentos Operacionais Padrão (SOP's)**;
 - Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
 - Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
 
 | Smart Cities Project | Link |
 | ------ | ------ |
-| Farming and Epidemics - Smart Cities - IOC | https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list |
-| City Operational Control Center (flooding, landslides, accidents, tree falls...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
+| Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
+| Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
 | Traffic Monitoring Agency | PUBLICAR |
 
 

@@ -28,3 +28,164 @@ BPM - Business Process Management
 - Easy identification of **bottlenecks** and proposition of **quick and viable solutions**;
 - Knowledge of **various types of solutions** that can serve the business in the best possible way, **preventing the customer** from hiring very **expensive solutions without a real return to the business**.
 
+| BPM Project | Link |
+| ------ | ------ |
+| Agricultural Defense - Farming and Epidemics (Smart Cities) | [As Is and To Be in the same BPM file](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
+|City Operational Contro Center (Smart Cities) | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) and [TO BE] |
+| Hackathon - Blockchain for Social Impact (Consensys) - Plastics and Pollution | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
+```sh
+REQUISITOS DE PRODUTO
+```
+![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
+
+A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo.  Nesse momento entra em cena a identificação dos **Épicos (módulos)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e valor para o cliente/usuário!
+
+- Identificação de **Escopo** do projeto ou produto (Big Picture);
+- Identificação e especificação de **Requisitos Não Funcionais**;
+- Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
+- Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
+- Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
+- Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
+- Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
+- Elaboração de **cenários de Testes** utilizando linguagem apropriada conforme necessário (Casos de Testes ou BDD);
+
+| Project Documentation  | Link |
+| ------ | ------ |
+|  | [teste](http://grupoassessor.com/smart-cities/) |
+|  | PUBLICAR |
+|  | PUBLICAR |
+
+```sh
+BLOCKCHAIN
+```
+![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
+
+Blockchain is a distributed registration technology that aims at **decentralization** as a security measure. These are distributed and shared databases and records that have the function of creating a global index for all transactions that take place in a given market. It works as a ledger, only in a public, shared and universal way, which creates **consensus and trust** in direct communication between **two parties (P2P), that is, without the intermediary of third parties**. The blockchain concept has been evolving since the early 2000s, being leveraged by the Bitcoin boom. However, much is yet to come - the concept of **SmartContracts** created through the **Ethereum blockchain and currently present in other private and public blockchains -** is expanding the market for this technology. **DApps (Decentralized Applications)** are being created to facilitate user interaction with this new world of **Web3.0** that is just beginning.
+
+
+- Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
+- Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
+- Conhecimento em produtos e protocolos de **Identidade Descentralizada** em Blockchain (Decentralized Identity);
+- Conhecimento em produtos e protocolos de **MarketPlace** e **DeFi** em Blockchain (preferencialmente **Ethereum**);
+- Especificação de solução para geração de **Carteiras Ethereum** utilizando métodos de criptografia e geração de chaves privadas;
+- Especificação de solução para **Indexação de Conteúdo** na blockchain (**IPFS**) e plataforma de **Busca** desses conteúdos (parecido com Google);
+- Conhecimento e especificação (documentação) de **Tokens Ethereum** nos padrões **ERC20 e ERC223** - definição de Roles, funções padrão, funções próprias do negócio;
+- Testes e documentação em **SmartContracts** e **Tokens** utilizando **Remix, Etherscan e Truffle**;
+- Documentação de **API Gateways** para Bitcoin e para Ethereum;
+- Elaboração de **Whitepapers** dos projetos desenvolvidos e **Landing Pages**;
+- Conhecimento sobre **plataformas, protocolos e soluções descentralizadas** que agregam muito valor aos projetos Blockchain: 
+    -  **Infraestrutura**: IPFS, Storj, Swarm, ENS, Mainframe, Handshake, Ocean Protocol, LibP2P...
+    -  **Identidade**: uPort, Civic, Kimlic, OriginalMy, Bloom . . . 
+    -  **MarketPlace**: OpenBazaar
+    -  **Governança e Organizações**: Aragon, Democracy Earth, District0x . . .
+    -  **Plataformas Descentralizadas**: Bounties Network, ...
+    -  **Tokens**: OpenZeppelin
+    
+| Blockchain Project | Link |
+| ------ | ------ |
+| Hackathon - Blockchain for Social Impact (Consensys) - Plastics and Pollution |  [Project Repo](https://github.com/RenanMeirelles/zero-pollution-bsic) and [Complete Business Process](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
+| Decentralized Identity (DID) | PUBLICAR |
+| Buy/Sell Domains and TopLevelDomains on Web3.0 (Name Services)| PUBLICAR |
+| Web Content Indexing and Search Tools 3.0 | PUBLICAR |
+| API Gateway model for connection to Blockchain Ethereum and Bitcoin| PUBLICAR |
+
+```sh
+SMART CITIES
+```
+![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
+
+**Smart Cities** is another concept, as well as Blockchain, which is gaining notoriety around the world. Our planet is saturated with problems and reaching its limit. **Extremely crowded cities, traffic, environmental catastrophes, epidemics**, all resulting from human influence. But technology is following this evolution, trying to find ways to minimize these problems, bringing a better quality of life for both the environment and the population. In this scenario, the concept of **Smart Cities** emerged - solutions using **IoT, Blockchain,  Artificial Intelligence** and others, combined with **process improvements** between government agencies, large companies and citizens, which aim to tackle everyday problems of our day to day.
+
+- **Levantamento e modelagem dos Processos de Negócios** de todas as pontas envolvidas - estudo dos Procedimentos Operacionais Padrão da maneira atual (**As Is**);
+- **Modelagem e Documentação de Processos de Negócios** propostos (**To Be**) voltados para aplicações de **Smart Cities**, preferencialmente utilizando ferramentas da **IBM (Intelligent Operations Center)** em **Centros de Operação**;
+- Identificação dos sistemas de **Fontes de Dados** para integração e execução automática ou manual dos **Procedimentos Operacionais Padrão (SOP's)**;
+- Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
+- Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
+
+| Smart Cities Project | Link |
+| ------ | ------ |
+| Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
+| Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
+| Traffic Monitoring Agency | PUBLICAR |
+
+
+```sh
+METODOLOGIAS DE TRABALHO
+```
+- Condução de **cerimônias do Scrum** (trabalhando em sprints) e **liderança de Squads** - Groomings, Plannings, Daily, Review, Retro;
+- Trabalho utilizando quadros **Kanban (JIRA e Trello)**;
+- Experiência em **trabalho remoto**;
+- Experiência em trabalhos com **equipes 100% ou parcialmente remotas**;
+- Já trabalhei por anos no modelo Waterfall, mas dou preferência para agilidade.
+
+# Ferramentas | Tools
+
+Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
+
+  - **BizAgi** - vasta experiência!Utilizei em mais de 90% dos projetos que passei. Com ele consigo gerar uma documentação completíssima da solução;
+  - **Atlassian** - vasta experiência em documentação utilizando o **Confluence**; vasta experiência utilizando o **JIRA** para gestão das squads (Scrum e Kanban); experiência em acompanhamento dos códigos no **BitBucket**; 
+  - **Outras ferramentas de BPM** e outros tipos de diagramação - TIBCO, IBM BPM, ARIS, Oracle 11g, Bonita Soft, Draw.io, dentre outros;
+  - **Especificação** - Caliber, Enterprise Architect, e documentação no pacote Office;
+  - **Ferramentas para Gestão** - **JIRA e Trello (Atlassian) e pacote Office (Project, Planilhas, etc);
+  - **Prototipação** - Figma, Pencil, Draw.io, Pidoco e outros;
+  - **SmartCities** - Intelligent Operations Center IBM.
+
+# Como eu trabalho! | How I work!
+Minha metodologia de trabalho é a seguinte, podendo passar por adaptações:
+  - Levantamentos iniciais e modelagem de Processos - DESCREVER
+  - Apresentações iniciais dos Processos e alterações necessárias;
+  - Validação do Processo de Negócio
+  - Identificação do Escopo (Big Picture) - Nesse momento é possível, através dos processos, identificar as grandes partes (módulos/Epics) que serão necessários desenvolver.
+  - Identificação das Histórias de Usuário (ou Casos de Uso, se preferir) que deverão ser desenvolvidos pelas equipes de Devs;
+  - Detalhamento profundo das Histórias de Usuário - DESCREVER
+  - Se necessário, definição dos WireFrames / Prototipação estática das telas do sistema;
+-** Reuniões para levantamento dos processos de negócio da maneira que são, ou da maneira que deverão ser. Importante deixar claro que no BPM é essencial o levantamento dos processos da Situação Atual (As Is) para posterior modelagem dos processos da Situação Proposta (To Be). Porém, esse cenário não acontece quando o levantamento inicial é feito para o desenvolvimento de aplicações "do zero", por exemplo, sem ter uma operação por trás disso. Nesse caso, o que conta é a criação do processo.**
+**- Modelagem dos processos levantados, utilizando ferramenta própria para a "diagramação", sempre na notação BPMN2.0. Ainda sobre o que foi falado acima, pode haver a modelagem dos processos As Is, ou diretamente o To Be.**
+- **Para projetos em que seja necessário uma análise dos processos na situação atual (As Is), existe uma etapa de análise desses, envolvendo os stakeholders para decisões estratégicas. Nesse caso, uma proposta de processo será posteriormente modelada (To Be).**
+
+### Artefatos / Entregáveis
+
+Alguns dos produtos provenientes do trabalho que executo são:
+- **BPM**: Modelo de Processo (As Is / To Be)
+         - Arquivo no formato **".bpm"** contendo todos os anexos e descritivos
+         - **Relatórios** dos processos completos em **.DOC e .PDF**
+         - **Imagens dos fluxos** em PNG ou qualquer outro formato
+         - **Arquivo navegável completo** no formato HTML (navegador web)
+         - **Portal de processos** no formato HTML
+- Histórias de Usuário;
+- Documento de 7 dimensões do produto;
+- Protótipos de Telas;
+- 
+
+| Plugin | Link |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+### Projetos / Projects
+Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
+Dillinger uses a number of open source projects to work properly:
+
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
+
+### Documentação / Documentation
+
+Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+
+| Plugin | Link |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+### Alguns Cursos que já fiz
+- UML
+- Blockchain - Ethereum - criar Token
+- Oracle Suite 11g
+- BPM Bootcamp - CBPP
+- JIRA Training
+- Java 
+

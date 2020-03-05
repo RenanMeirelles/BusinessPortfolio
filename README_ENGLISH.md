@@ -84,7 +84,7 @@ Blockchain is a distributed registration technology that aims at **decentralizat
 | Blockchain Project | Link |
 | ------ | ------ |
 | Hackathon - Blockchain for Social Impact (Consensys) - Plastics and Pollution |  [Project Repo](https://github.com/RenanMeirelles/zero-pollution-bsic) and [Complete Business Process](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Decentralized Identity (DID) | PUBLICAR |
+| Decentralized Identity (DID) | [TO BE processes with Wireframes and Business Rules in activity descriptions](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
 | Buy/Sell Domains and TopLevelDomains on Web3.0 (Name Services)| PUBLICAR |
 | Web Content Indexing and Search Tools 3.0 | PUBLICAR |
 | API Gateway model for connection to Blockchain Ethereum and Bitcoin| PUBLICAR |

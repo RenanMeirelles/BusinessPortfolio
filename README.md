@@ -3,6 +3,7 @@
 **If you don't understand portuguese, please click** [**here**](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/README_ENGLISH.md)!!!
 
 E aí, visitante!
+
 Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
 
@@ -37,6 +38,7 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 REQUISITOS DE PRODUTO
 ```
 ![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
+
 A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo.  Nesse momento entra em cena a identificação dos **Épicos (módulos)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e valor para o cliente/usuário!
 
 - Identificação de **Escopo** do projeto ou produto (Big Picture);
@@ -50,9 +52,10 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 
 | Project Documentation  | Link |
 | ------ | ------ |
-| aaaa | aaaaa |
-| aaa | PUBLICAR |
-| aaaaa | PUBLICAR |
+|  | PUBLICAR |
+|  | PUBLICAR |
+|  | PUBLICAR |
+
 ```sh
 BLOCKCHAIN
 ```

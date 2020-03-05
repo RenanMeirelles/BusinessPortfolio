@@ -93,6 +93,7 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 SMART CITIES
 ```
 ![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
+
 **Smart Cities** é outro conceito, assim como Blockchain, que vem ganhando notoriedade no mundo todo. Nosso planeta está saturado de problemas e chegando ao seu limite. **Cidades extremamente lotadas, trânsito, catástrofes ambientais, epidemias**, tudo resultado da influência humana. Mas a tecnologia está acompanhando essa evolução, tentando achar meios de minimizar esses problemas, trazendo maior qualidade de vida tanto para o meio ambiente quanto para a população. Nesse cenário, surgiu o conceito de **Cidades Inteligentes** - soluções utilizando **IoT**, **Blockchain**, **Inteligencia Artificial** e outras, combinadas com melhorias de processos entre órgãos governamentais, grandes empresas e cidadãos, que visam atacar problemas corriqueiros de nosso dia a dia.
 
 

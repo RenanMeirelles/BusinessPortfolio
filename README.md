@@ -31,9 +31,9 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 
 | BPM Project | Link |
 | ------ | ------ |
-| Processos Defesa Agropecuária Estadual (Smart Cities) | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
-|Processos Centro de Controle e Operações (Smart Cities) | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE] |
-| Processos Hackathon Consensys Blockchain (Ethereum) - Plásticos e Poluição  | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
+| Processos Defesa Agropecuária Estadual - Smart Cities | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
+|Processos Centro de Controle e Operações - Smart Cities | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE] |
+| Hackathon - Blockchain for Social Impact Consensys - Plásticos e Poluição  | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
 ```sh
 REQUISITOS DE PRODUTO
 ```

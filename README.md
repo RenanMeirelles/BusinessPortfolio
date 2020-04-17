@@ -15,9 +15,11 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
 [![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
-**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
 
-- **Estudo** do mercado em que o cliente está inserido e documentações iniciais;
+**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+**Técnicas e abordagens usadas no BPM:**
+
+- **Estudo** do mercado em que o cliente está inserido e de documentações iniciais;
 - **Reuniões**  para **entendimento dos negócios** e das necessidades/objetivos do cliente;
 - **Entendimento rápido**, principalmente da **visão macro** dos processos de negócios;
 - **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado**;
@@ -29,11 +31,20 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 - Facilidade na identificação de **gargalos** e proposição de **soluções rápidas** e **viáveis**;
 - Conhecimento de **diversos tipos de soluções** que possam atender ao negócio da melhor maneira possível, evitando que o cliente contrate soluções muito caras sem um retorno real ao negócio.
 
-| BPM Project | Link |
+| BPM Projects | Link |
 | ------ | ------ |
-|Processos Defesa Agropecuária Estadual - Smart Cities |[As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
+| Assembleia Legislativa do Estado | PUBLICAR |
+|Secretaria de Cultura | PUBLICAR |
+| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
+| Secretaria de Estado da Educação - Merenda | PUBLICAR |
+| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
 |Processos Centro de Controle e Operações - Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
+| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | PUBLICAR |
+|Processos Defesa Agropecuária Estadual - Smart Cities |[As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
+| Secretaria de Gestão Pública | PUBLICAR |
+| Secretaria de Segurança Pública | PUBLICAR |
 |Hackathon - Blockchain for Social Impact Consensys - Plásticos e Poluição|[TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0|
+
 
 ```sh
 REQUISITOS DE PRODUTO
@@ -42,28 +53,31 @@ REQUISITOS DE PRODUTO
 
 A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo.  Nesse momento entra em cena a identificação dos **Épicos (módulos)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e valor para o cliente/usuário!
 
-- Identificação de **Escopo** do projeto ou produto (Big Picture);
-- Identificação e especificação de **Requisitos Não Funcionais**;
+**Técnicas e abordagens usadas na especificação de Produtos (Requisitos):**
+
+- Identificação e estudo de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
 - Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
 - Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
+- Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
+- Identificação e especificação de **Requisitos Não Funcionais**;
 - Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
-- Elaboração de **cenários de Testes** utilizando linguagem apropriada conforme necessário (Casos de Testes ou BDD);
+- Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
 
 | Project Documentation  | Link |
 | ------ | ------ |
-|  | [teste](http://grupoassessor.com/smart-cities/) |
-|  | PUBLICAR |
-|  | PUBLICAR |
+| Encontrar todos Requisitos, Histórias de Usuário, etc. | PUBLICAR |
+
 
 ```sh
 BLOCKCHAIN
 ```
 ![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
 
-Blockchain é uma tecnologia de registro distribuído que visa a **descentralização** como medida de segurança. São bases de registros e dados distribuídos e compartilhados que têm a função de criar um índice global para todas as transações que ocorrem em um determinado mercado. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, que cria **consenso e confiança** na comunicação direta entre **duas partes (P2P), ou seja, sem o intermédio de terceiros**. O conceito de blockchain vem evoluindo desde o início dos anos 2000, sendo alavancada pelo boom do Bitcoin. Porém, muito ainda está por vir - o conceito dos **SmartContracts** criados através da blockchain **Ethereum - e atualmente presente em outras blockchains privadas e públicas -** está ampliando o mercado para essa tecnologia. DApps (Aplicativos Descentralizados) estão sendo criados para facilitar a interação do usuário com esse novo mundo da **Web3.0** que está só começando.
+Blockchain é uma tecnologia de registro distribuído que visa a **descentralização** como medida de segurança. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, que cria **consenso e confiança** na comunicação direta entre **duas partes (P2P), ou seja, sem o intermédio de terceiros**. O conceito de blockchain vem evoluindo desde o início dos anos 2000, sendo alavancada pelo boom do Bitcoin. Porém, muito ainda está por vir - o conceito dos **SmartContracts** criados através da blockchain **Ethereum - e atualmente presente em outras blockchains privadas e públicas -** está ampliando o mercado para essa tecnologia. DApps (Aplicativos Descentralizados) estão sendo criados para facilitar a interação do usuário com esse novo mundo da **Web3.0** que está só começando, mas que precisa ainda da quebra de paradigmas e adaptações. Já podem ir se atualizando a respeito dos **SmartContracts, Tokenização de Assets, Economia em Cryptomoedas**, dentre outros assuntos.
 
+**Técnicas e abordagens usadas em Projetos utilizando Blockchain:**
 - Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
 - Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
 - Conhecimento em produtos e protocolos de **Identidade Descentralizada** em Blockchain (Decentralized Identity);
@@ -115,10 +129,22 @@ SMART CITIES
 METODOLOGIAS DE TRABALHO
 ```
 - Condução de **cerimônias do Scrum** (trabalhando em sprints) e **liderança de Squads** - Groomings, Plannings, Daily, Review, Retro;
-- Trabalho utilizando quadros **Kanban (JIRA e Trello)**;
+- Trabalho utilizando quadros **Kanban (JIRA e Trello)** e boards de desenvolvimento em **Sprints**;
 - Experiência em **trabalho remoto**;
 - Experiência em trabalhos com **equipes 100% ou parcialmente remotas**;
 - Já trabalhei por anos no modelo Waterfall, mas dou preferência para agilidade.
+
+# Certificações e Cursos
+
+- Certified Business Process Professional - CBPP - Bootcamp [ABPMP](https://www.abpmp-br.org/);
+- Treinamento JIRA Atlassian com E-Core Business - [CERTIFICADO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93785392_682286872599225_3796115022187331584_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=Xsxwnsytto0AX83jgxU&_nc_ht=scontent.fvcp2-1.fna&oh=2e05a3a0767f9d8eec62840f21c950df&oe=5EBE7EE5)
+- Curso UML- UNIFIED MODEL LANGUAGE (Análise Orientada a Objetos) – Cubo Tecnologia;
+- Curso básico de BPMN 2.0 (Business Process Management Notation), utilizando a ferramenta TIBCO;
+- Curso básico de JBPM – Integração de Java com Business Process Management, utilizando a ferramenta “Modeler” do Eclipse Ganymede;
+- Treinamento IBM BR, SWG, WebSphere: Stew BPM 8.5 (Event);
+- Treinamento Oracle SOA Suite 11g Implementation Boot Camp + Certificação;
+- Treinamento Avançado Ethereum - Solange Gueiros - Blockchain Academy
+
 
 # Ferramentas | Tools
 
@@ -133,17 +159,16 @@ Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
   - **SmartCities** - Intelligent Operations Center IBM.
 
 # Como eu trabalho! | How I work!
-Minha metodologia de trabalho é a seguinte, podendo passar por adaptações:
-  - Levantamentos iniciais e modelagem de Processos - DESCREVER
+Para qualquer trabalho que eu vá fazer, procuro sempre passar pelas seguintes etapas (podendo ser adaptadas):
+
+  - Levantamentos iniciais e modelagem de Processos - se necessário, AS IS e TO BE;
   - Apresentações iniciais dos Processos e alterações necessárias;
-  - Validação do Processo de Negócio
-  - Identificação do Escopo (Big Picture) - Nesse momento é possível, através dos processos, identificar as grandes partes (módulos/Epics) que serão necessários desenvolver.
+  - Validação do Processo de Negócio com o cliente;
+  - Análise e melhoria dos processos para definição do TO BE + Validação;
+  - Identificação do Escopo (Big Picture) - Nesse momento é possível, através dos processos, identificar as grandes partes (módulos/Epics) que serão necessários desenvolver;
   - Identificação das Histórias de Usuário (ou Casos de Uso, se preferir) que deverão ser desenvolvidos pelas equipes de Devs;
-  - Detalhamento profundo das Histórias de Usuário - DESCREVER
+  - Detalhamento profundo das Histórias de Usuário e informações (objetos) importantes para o modelo de negócio;
   - Se necessário, definição dos WireFrames / Prototipação estática das telas do sistema;
--** Reuniões para levantamento dos processos de negócio da maneira que são, ou da maneira que deverão ser. Importante deixar claro que no BPM é essencial o levantamento dos processos da Situação Atual (As Is) para posterior modelagem dos processos da Situação Proposta (To Be). Porém, esse cenário não acontece quando o levantamento inicial é feito para o desenvolvimento de aplicações "do zero", por exemplo, sem ter uma operação por trás disso. Nesse caso, o que conta é a criação do processo.**
-**- Modelagem dos processos levantados, utilizando ferramenta própria para a "diagramação", sempre na notação BPMN2.0. Ainda sobre o que foi falado acima, pode haver a modelagem dos processos As Is, ou diretamente o To Be.**
-- **Para projetos em que seja necessário uma análise dos processos na situação atual (As Is), existe uma etapa de análise desses, envolvendo os stakeholders para decisões estratégicas. Nesse caso, uma proposta de processo será posteriormente modelada (To Be).**
 
 ### Artefatos / Entregáveis
 
@@ -157,39 +182,13 @@ Alguns dos produtos provenientes do trabalho que executo são:
 - Histórias de Usuário;
 - Documento de 7 dimensões do produto;
 - Protótipos de Telas;
-- 
+- Outros.
 
-| Plugin | Link |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
 ### Projetos / Projects
 Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
-Dillinger uses a number of open source projects to work properly:
+- LISTAR TODOS PROJETOS CONFORME LINKEDIN
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
-### Documentação / Documentation
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | Link |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-### Alguns Cursos que já fiz
-- UML
-- Blockchain - Ethereum - criar Token
-- Oracle Suite 11g
-- BPM Bootcamp - CBPP
-- JIRA Training
-- Java 
 
 
 

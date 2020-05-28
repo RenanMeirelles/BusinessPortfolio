@@ -49,7 +49,7 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```sh
 REQUISITOS DE PRODUTO
 ```
-![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
+![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=7sCctK-VWP0AX8o3rE4&_nc_ht=scontent.fvcp2-1.fna&oh=8d14bd5264bbb03a80aa14c583d0a0ef&oe=5EF5CC28)
 
 A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo que anteda as expectativas.  Nesse momento entra em cena a o desenvolvimento do **Produto**. Através de metodologias como **Lean Inception** e **Design Thinking**, ocorre a identificação dos **Épicos (módulos e releases)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e **VALOR** para o cliente/usuário!
 
@@ -109,7 +109,7 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 ```sh
 SMART CITIES
 ```
-![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_ohc=qrV-CQeMEqwAX_d3qwW&_nc_ht=scontent.fvcp2-1.fna&oh=3679c92d256783547b89441fb287bda2&oe=5EB7C97F)
+![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=ooqW0sUCXlUAX8hq5PD&_nc_ht=scontent.fvcp2-1.fna&oh=973332565b042204d892172958c8dbe8&oe=5EF4B501)
 
 **Smart Cities** é outro conceito, assim como Blockchain, que vem ganhando notoriedade no mundo todo. Nosso planeta está saturado de problemas e chegando ao seu limite. **Cidades extremamente lotadas, trânsito, catástrofes ambientais, epidemias**, tudo resultado da influência humana. Mas a tecnologia está acompanhando essa evolução, tentando achar meios de minimizar esses problemas, trazendo maior qualidade de vida tanto para o meio ambiente quanto para a população. Nesse cenário, surgiu o conceito de **Cidades Inteligentes** - soluções utilizando **IoT**, **Blockchain**, **Inteligencia Artificial** e outras, combinadas com melhorias de processos entre órgãos governamentais, grandes empresas e cidadãos, que visam atacar problemas corriqueiros de nosso dia a dia.
 
@@ -189,6 +189,7 @@ Alguns dos produtos provenientes do trabalho que executo são:
          - Documentos de anotações de levantamentos;
          - Estruturação de **Épicos/Módulos/Releases e Cards de Histórias de Usuário** em plataforma apropriada ou Google Docs;
          - Detalhamento de **Histórias de Usuário** em documentos isolados, com informações próprias de **Personas**, **Proposta de Valor**, **Experiência do Usuário**, **Regras de Negócio**, **Modelos de Informações**, dentre outros (7 Dimensões do Produto);
+         - Diagramações de fluxos para facilitar no entendimento do produto;
          - Documento Geral do Produto, contendo definição de Personas, Histórias de Usuário e níveis Complexidade, MVP, dentre outros;  
          - **Wireframes** do Produto de maneira geral e também separado por História de Usuário;
          - Documento de definição de **MVP** e demais releases;

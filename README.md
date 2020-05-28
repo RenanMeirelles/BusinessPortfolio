@@ -16,19 +16,19 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
 [![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
 
-**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com foco em seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não - fica a cargo do cliente. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
 **Técnicas e abordagens usadas no BPM:**
 
 - **Estudo** do mercado em que o cliente está inserido e de documentações iniciais;
-- **Reuniões**  para **entendimento dos negócios** e das necessidades/objetivos do cliente;
-- **Entendimento rápido**, principalmente da **visão macro** dos processos de negócios;
-- **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado**;
-- Facilidade na **condução de reuniões** para **levantamento de processos**;
-- Nível de **modelagem de processo avançado** na notação **BPMN2.0** - rápido e completo;
+- **Reuniões** para **entendimento dos negócios** e das necessidades/objetivos do cliente;
+- **Absorção rápida** de conhecimento, principalmente da **visão macro** dos processos de negócios;
+- **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado** se necessário;
+- **Condução de reuniões** para **levantamento de processos**;
+- Nível avançado de **modelagem de processo** na notação **BPMN2.0** - rápido e completo;
 - Detalhamento completo dos processos (descrições, eventos, atores, sistemas envolvidos, integrações, etc - dependendo da demanda);
 - Modelagem de processos **As Is (se necessário) e To Be** **com ou sem** foco em **implementação de sistemas**;
 - **Modelagem de processos** voltados para diversas tecnologias, como **Blockchain, Integrações, Microsserviços, Smart Cities, sistemas tradicionais**, dentre outros;
-- Facilidade na identificação de **gargalos** e proposição de **soluções rápidas** e **viáveis**;
+- Identificação de **gargalos** e proposição de **soluções rápidas** e **viáveis**;
 - Conhecimento de **diversos tipos de soluções** que possam atender ao negócio da melhor maneira possível, evitando que o cliente contrate soluções muito caras sem um retorno real ao negócio.
 
 | BPM Projects | Link |
@@ -51,23 +51,25 @@ REQUISITOS DE PRODUTO
 ```
 ![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
 
-A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo.  Nesse momento entra em cena a identificação dos **Épicos (módulos)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e valor para o cliente/usuário!
+A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo que anteda as expectativas.  Nesse momento entra em cena a o desenvolvimento do **Produto**. Através de metodologias como **Lean Inception** e **Design Thinking**, ocorre a identificação dos **Épicos (módulos e releases)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e **VALOR** para o cliente/usuário!
 
 **Técnicas e abordagens usadas na especificação de Produtos (Requisitos):**
 
+- Ideação inicial através de práticas como **Design Thinkin e Lean Inception**; 
 - Identificação e estudo de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
 - Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
 - Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
 - Identificação e especificação de **Requisitos Não Funcionais**;
-- Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
+- Elaboração dos **Wireframes** (sem Identidade Visual) em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
 - Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
 
 | Project Documentation  | Link |
 | ------ | ------ |
-| Encontrar todos Requisitos, Histórias de Usuário, etc. | PUBLICAR |
+| Hackathon - Blockchain for Social Impact (Consensys) | [Especificação do Produto na pasta DOCUMENTATION](https://github.com/RenanMeirelles/zero-pollution-bsic) |
+| Incluir Requisitos Blockchain - ID, Plataforma e outros  | PUBLICAR |
 
 
 ```sh
@@ -100,9 +102,9 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 | ------ | ------ |
 | Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
 | Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
-| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| PUBLICAR |
-| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 | PUBLICAR |
-| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | PUBLICAR |
+| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
+| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
+| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
 
 ```sh
 SMART CITIES
@@ -128,6 +130,7 @@ SMART CITIES
 ```sh
 METODOLOGIAS DE TRABALHO
 ```
+- Levantamentos de Processos e de Requisitos utilizando **Lean Inception e Design Thinking** e até mesmo o antigo **JAD**;
 - Condução de **cerimônias do Scrum** (trabalhando em sprints) e **liderança de Squads** - Groomings, Plannings, Daily, Review, Retro;
 - Trabalho utilizando quadros **Kanban (JIRA e Trello)** e boards de desenvolvimento em **Sprints**;
 - Experiência em **trabalho remoto**;
@@ -150,7 +153,7 @@ METODOLOGIAS DE TRABALHO
 
 Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
 
-  - **BizAgi** - vasta experiência!Utilizei em mais de 90% dos projetos que passei. Com ele consigo gerar uma documentação completíssima da solução;
+  - **BizAgi** - vasta experiência!Utilizei em mais de 90% dos projetos que passei. Com ele consigo gerar uma documentação completíssima da solução em arquivo navegável;
   - **Atlassian** - vasta experiência em documentação utilizando o **Confluence**; vasta experiência utilizando o **JIRA** para gestão das squads (Scrum e Kanban); experiência em acompanhamento dos códigos no **BitBucket**; 
   - **Outras ferramentas de BPM** e outros tipos de diagramação - TIBCO, IBM BPM, ARIS, Oracle 11g, Bonita Soft, Draw.io, dentre outros;
   - **Especificação** - Caliber, Enterprise Architect, e documentação no pacote Office;
@@ -159,34 +162,42 @@ Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
   - **SmartCities** - Intelligent Operations Center IBM.
 
 # Como eu trabalho! | How I work!
-Para qualquer trabalho que eu vá fazer, procuro sempre passar pelas seguintes etapas (podendo ser adaptadas):
+Para qualquer tipo trabalho que eu vá fazer, procuro sempre passar pelas seguintes etapas (podendo variar):
 
-  - Levantamentos iniciais e modelagem de Processos - se necessário, AS IS e TO BE;
-  - Apresentações iniciais dos Processos e alterações necessárias;
-  - Validação do Processo de Negócio com o cliente;
-  - Análise e melhoria dos processos para definição do TO BE + Validação;
-  - Identificação do Escopo (Big Picture) - Nesse momento é possível, através dos processos, identificar as grandes partes (módulos/Epics) que serão necessários desenvolver;
-  - Identificação das Histórias de Usuário (ou Casos de Uso, se preferir) que deverão ser desenvolvidos pelas equipes de Devs;
-  - Detalhamento profundo das Histórias de Usuário e informações (objetos) importantes para o modelo de negócio;
-  - Se necessário, definição dos WireFrames / Prototipação estática das telas do sistema;
+  - Reuniões de Levantamentos iniciais para coleta de informações e pesquisa de mercado;
+  - Modelagem inicial da ideia - tanto em BPM quanto para ideação de Produto (requisitos);
+  - Apresentação e ciclo de validações com o cliente;
+  - Alterações e correções conforme apontamentos do cliente;
+  - Modelagem da ideia proposta final tanto para processos quanto para Produto;
+  - Consolidação do material validado e geração de entregáveis (entregas devem ser parciais);
+  - Análise e melhoria dos processos e requisitos se necessário acompanhamento;
+  - Se necessário, definição dos WireFrames / Prototipação estática das telas do sistema, casos de testes (BDD) e outros.
 
 ### Artefatos / Entregáveis
 
 Alguns dos produtos provenientes do trabalho que executo são:
-- **BPM**: Modelo de Processo (As Is / To Be)
-         - Arquivo no formato **".bpm"** contendo todos os anexos e descritivos
+- **BPM**: 
+         - Documentos de anotações de levantamentos;
+         - Todas versões dos Modelos de Processos (As Is / To Be);
+         - Arquivos no formato **".bpm"** contendo todos os anexos e descritivos;
          - **Relatórios** dos processos completos em **.DOC e .PDF**
-         - **Imagens dos fluxos** em PNG ou qualquer outro formato
-         - **Arquivo navegável completo** no formato HTML (navegador web)
-         - **Portal de processos** no formato HTML
-- Histórias de Usuário;
-- Documento de 7 dimensões do produto;
-- Protótipos de Telas;
-- Outros.
+         - **Imagens dos fluxos** em PNG ou qualquer outro formato;
+         - **Arquivo modelo final - navegável completo -** no formato HTML (navegador web)
+         - **Portal de processos** no formato HTML;
+         
+- **Produto**:
+         - Documentos de anotações de levantamentos;
+         - Estruturação de **Épicos/Módulos/Releases e Cards de Histórias de Usuário** em plataforma apropriada ou Google Docs;
+         - Detalhamento de **Histórias de Usuário** em documentos isolados, com informações próprias de **Personas**, **Proposta de Valor**, **Experiência do Usuário**, **Regras de Negócio**, **Modelos de Informações**, dentre outros (7 Dimensões do Produto);
+         - Documento Geral do Produto, contendo definição de Personas, Histórias de Usuário e níveis Complexidade, MVP, dentre outros;  
+         - **Wireframes** do Produto de maneira geral e também separado por História de Usuário;
+         - Documento de definição de **MVP** e demais releases;
+         - Elaboração de **Business Model Canvas e MVP Canvas**;
+         - Documento de **"Estacionamento de Ideias"** para posteriores versões;
+         - Documento de auxílio para elaboração de **Pitch Decks**;
+         
+###Sinta-se à vontade para mandar e-mail, mensagem, perguntar como trabalho, trocar uma ideia, perguntar sobre valores, etc. Sou completamente flexível para negociar - e muitas vezes uma rápida conversa pode solucionar um problema que parece maior.
 
-### Projetos / Projects
-Já me deparei com infinitos tipos de projetos, atuando em diversas frentes de trabalho: modelagem de processos (obviamente), especificação de requisitos, prototipação de sistemas, definição de escopo, liderança de squads em projetos blockchain, documentação técnica de API Gateway para blockchain, dentre outras.
-- LISTAR TODOS PROJETOS CONFORME LINKEDIN
 
 
 

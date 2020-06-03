@@ -9,7 +9,7 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 
 [![Linkedin](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83896920_630999031008245_1134907814766968832_n.png?_nc_cat=106&_nc_ohc=UGkaxYLiu6MAX-Wi9P8&_nc_ht=scontent.fvcp2-1.fna&oh=6fdb1e508658a2fbffdad9617eff875c&oe=5ED9FFE1)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
-# Certificados e Cursos
+## Certificados e Cursos
 - [CERTIFIED BUSINESS PROCESS PROFESSIONAL - CBPP®](https://drive.google.com/file/d/1wO14MkJBsaekBg_fLj6b9usjtSST1ZnH/view)
 - [SCRUM FUNDAMENTALS CERTIFIED](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RenanGirottoMeirelles-786196.pdf)
 - [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)

@@ -9,6 +9,11 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 
 [![Linkedin](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83896920_630999031008245_1134907814766968832_n.png?_nc_cat=106&_nc_ohc=UGkaxYLiu6MAX-Wi9P8&_nc_ht=scontent.fvcp2-1.fna&oh=6fdb1e508658a2fbffdad9617eff875c&oe=5ED9FFE1)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
+# Certificados e Cursos
+- [CERTIFIED BUSINESS PROCESS PROFESSIONAL - CBPP®](https://drive.google.com/file/d/1wO14MkJBsaekBg_fLj6b9usjtSST1ZnH/view)
+- [SCRUM FUNDAMENTALS CERTIFIED](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RenanGirottoMeirelles-786196.pdf)
+- [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
+
 # Habilidades / Skills!
 
 ```sh
@@ -55,11 +60,12 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 
 **Técnicas e abordagens usadas na especificação de Produtos (Requisitos):**
 
-- Ideação inicial através de práticas como **Design Thinkin e Lean Inception**; 
+- Ideação inicial através de práticas como **Design Thinking e Lean Inception (MVP)**; 
 - Identificação e estudo de **Escopo** do projeto ou produto (Big Picture);
-- Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
+- Identificação e definição dos **Épicos**, conhecidos anteriormente como "Módulos" - grandes grupos de funcionalidades;
 - Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
-- Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
+- Criação de **priorização do Backlog**;
+- Identificação e definição completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
 - Identificação e especificação de **Requisitos Não Funcionais**;
 - Elaboração dos **Wireframes** (sem Identidade Visual) em cima dos requisitos já especificados;

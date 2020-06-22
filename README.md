@@ -7,7 +7,7 @@ E aí, visitante!
 Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
 
-[![Linkedin](https://cdn.business2community.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3-300x140.png.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
+[![Linkedin](https://esoterictradingsolutions.com.au/wp-content/uploads/View-my-LinkedIn-Profile.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
 ## Certificados e Cursos
 - [CERTIFIED BUSINESS PROCESS PROFESSIONAL - CBPP®](https://drive.google.com/file/d/1wO14MkJBsaekBg_fLj6b9usjtSST1ZnH/view)

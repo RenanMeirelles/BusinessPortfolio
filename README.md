@@ -19,7 +19,7 @@ Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se
 ```sh
 BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
-[![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
+[![Imagem BPM](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_BPM.png)](https://www.process.st/benefits-of-bpm-business-process-management/)
 
 **Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com foco em seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não - fica a cargo do cliente. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
 **Técnicas e abordagens usadas no BPM:**
@@ -54,7 +54,7 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```sh
 REQUISITOS DE PRODUTO
 ```
-![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=7sCctK-VWP0AX8o3rE4&_nc_ht=scontent.fvcp2-1.fna&oh=8d14bd5264bbb03a80aa14c583d0a0ef&oe=5EF5CC28)
+![Imagem Produtos](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Product.png)
 
 A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo que anteda as expectativas.  Nesse momento entra em cena a o desenvolvimento do **Produto**. Através de metodologias como **Lean Inception** e **Design Thinking**, ocorre a identificação dos **Épicos (módulos e releases)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e **VALOR** para o cliente/usuário!
 
@@ -81,7 +81,7 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 ```sh
 BLOCKCHAIN
 ```
-![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
+![Imagem Blockchain Authentic Renan Meirelles](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Blockchain2.png)
 
 Blockchain é uma tecnologia de registro distribuído que visa a **descentralização** como medida de segurança. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, que cria **consenso e confiança** na comunicação direta entre **duas partes (P2P), ou seja, sem o intermédio de terceiros**. O conceito de blockchain vem evoluindo desde o início dos anos 2000, sendo alavancada pelo boom do Bitcoin. Porém, muito ainda está por vir - o conceito dos **SmartContracts** criados através da blockchain **Ethereum - e atualmente presente em outras blockchains privadas e públicas -** está ampliando o mercado para essa tecnologia. DApps (Aplicativos Descentralizados) estão sendo criados para facilitar a interação do usuário com esse novo mundo da **Web3.0** que está só começando, mas que precisa ainda da quebra de paradigmas e adaptações. Já podem ir se atualizando a respeito dos **SmartContracts, Tokenização de Assets, Economia em Cryptomoedas**, dentre outros assuntos.
 
@@ -115,7 +115,7 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 ```sh
 SMART CITIES
 ```
-![SmartCities](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84439529_523756578262319_4215987820998688768_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=ooqW0sUCXlUAX8hq5PD&_nc_ht=scontent.fvcp2-1.fna&oh=973332565b042204d892172958c8dbe8&oe=5EF4B501)
+![SmartCities](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_SmartCitires.png)
 
 **Smart Cities** é outro conceito, assim como Blockchain, que vem ganhando notoriedade no mundo todo. Nosso planeta está saturado de problemas e chegando ao seu limite. **Cidades extremamente lotadas, trânsito, catástrofes ambientais, epidemias**, tudo resultado da influência humana. Mas a tecnologia está acompanhando essa evolução, tentando achar meios de minimizar esses problemas, trazendo maior qualidade de vida tanto para o meio ambiente quanto para a população. Nesse cenário, surgiu o conceito de **Cidades Inteligentes** - soluções utilizando **IoT**, **Blockchain**, **Inteligencia Artificial** e outras, combinadas com melhorias de processos entre órgãos governamentais, grandes empresas e cidadãos, que visam atacar problemas corriqueiros de nosso dia a dia.
 

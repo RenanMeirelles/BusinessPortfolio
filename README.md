@@ -54,7 +54,7 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```sh
 REQUISITOS DE PRODUTO
 ```
-![Imagem Produtos](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Product.png)
+![Imagem Produtos](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Product2.png)
 
 A partir de um bom **entendimento do negócio**, atingido através do BPM, é possível identificar **o que é necessário** para o desenvolvimento de um sistema ou aplicativo que anteda as expectativas.  Nesse momento entra em cena a o desenvolvimento do **Produto**. Através de metodologias como **Lean Inception** e **Design Thinking**, ocorre a identificação dos **Épicos (módulos e releases)**, **Histórias de Usuário (Casos de Uso)**, modelos de **Informação**, **Protótipos**, dentre outros requisitos necessários para que uma **ideia** seja **transformada em código** e **VALOR** para o cliente/usuário!
 
@@ -115,7 +115,7 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
 ```sh
 SMART CITIES
 ```
-![SmartCities](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_SmartCitires.png)
+![SmartCities](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_SmartCities.png)
 
 **Smart Cities** é outro conceito, assim como Blockchain, que vem ganhando notoriedade no mundo todo. Nosso planeta está saturado de problemas e chegando ao seu limite. **Cidades extremamente lotadas, trânsito, catástrofes ambientais, epidemias**, tudo resultado da influência humana. Mas a tecnologia está acompanhando essa evolução, tentando achar meios de minimizar esses problemas, trazendo maior qualidade de vida tanto para o meio ambiente quanto para a população. Nesse cenário, surgiu o conceito de **Cidades Inteligentes** - soluções utilizando **IoT**, **Blockchain**, **Inteligencia Artificial** e outras, combinadas com melhorias de processos entre órgãos governamentais, grandes empresas e cidadãos, que visam atacar problemas corriqueiros de nosso dia a dia.
 

@@ -74,7 +74,7 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 
 | Project Documentation  | Link |
 | ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys) | [Especificação do Produto na pasta DOCUMENTATION](https://github.com/RenanMeirelles/zero-pollution-bsic) |
+| Hackathon - Blockchain for Social Impact (Consensys) | [User Stories](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |
 | Incluir Requisitos Blockchain - ID, Plataforma e outros  | PUBLICAR |
 
 

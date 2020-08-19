@@ -76,6 +76,7 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Identificação e definição dos **Épicos**, conhecidos anteriormente como "Módulos" - grandes grupos de funcionalidades;
 - Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
 - Criação e gestão do **Product Backlog**;
+- Metodologias Ágeis - **Scrum e Kanban**;
 - Identificação e definição completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
 - Identificação e especificação de **Requisitos Não Funcionais**;
@@ -96,8 +97,9 @@ BLOCKCHAIN
 
 Blockchain é uma tecnologia de registro distribuído que visa a **descentralização** como medida de segurança. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, que cria **consenso e confiança** na comunicação direta entre **duas partes (P2P), ou seja, sem o intermédio de terceiros**. O conceito de blockchain vem evoluindo desde o início dos anos 2000, sendo alavancada pelo boom do Bitcoin. Porém, muito ainda está por vir - o conceito dos **SmartContracts** criados através da blockchain **Ethereum - e atualmente presente em outras blockchains privadas e públicas -** está ampliando o mercado para essa tecnologia. DApps (Aplicativos Descentralizados) estão sendo criados para facilitar a interação do usuário com esse novo mundo da **Web3.0** que está só começando, mas que precisa ainda da quebra de paradigmas e adaptações. Já podem ir se atualizando a respeito dos **SmartContracts, Tokenização de Assets, Economia em Cryptomoedas**, dentre outros assuntos.
 
-**Técnicas e abordagens usadas em Projetos utilizando Blockchain:**
-- Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
+**Técnicas e abordagens usadas em Projetos Blockchain:**
+
+- Documentação de **Processos de Negócios** focados em soluções blockchain (públicas e permissionadas) - **DApps, Ecossistemas, Plataformas...*
 - Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
 - Conhecimento em produtos e protocolos de **Identidade Descentralizada** em Blockchain (Decentralized Identity);
 - Conhecimento em produtos e protocolos de **MarketPlace** e **DeFi** em Blockchain (preferencialmente **Ethereum**);
@@ -112,7 +114,7 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
     -  **Identidade**: uPort, Civic, Kimlic, OriginalMy, Bloom . . . 
     -  **MarketPlace**: OpenBazaar
     -  **Governança e Organizações**: Aragon, Democracy Earth, District0x . . .
-    -  **Plataformas Descentralizadas**: Bounties Network, ...
+    -  **Comunidades Blockchain - Plataformas para Trabalho**: Bounties Network, Gitcoin
     -  **Tokens**: OpenZeppelin
     
 | Blockchain Project | Link |

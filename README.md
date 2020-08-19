@@ -4,15 +4,24 @@
 
 E aí, visitante!
 
-Sou **Renan Meirelles**, brasileiro, e apesar da pouca idade (30), trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**. Minhas posteriores graduações foram as experiências pelas quais passei ao longo desses anos. Esses detalhes falarei mais adiante nesse mesmo documento!
+Sou **Renan Meirelles**, brasileiro, 30 anos. 
+Trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Posso designar perfis desde UX e até mesmo Product Owner - atravessando funções. Tenho bom conhecimento em **blockchain Ethereum** e diversas outras tecnologias - sistemas "tradicionais", ERP, BPMS e ECM, SmartCities, Integrações e SOA, dentre outros. 
+Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**.
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
 
 [![Linkedin](https://esoterictradingsolutions.com.au/wp-content/uploads/View-my-LinkedIn-Profile.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
+
+## Prêmios
+- [1º colocado Blockchain for Social Impact Incubator 2020 (Hackathon) - Desafio Plastics and Pollution](https://blockchainforsocialimpact.com/incubator-winners-2020/)
+
+Solução blockchain de **impacto social** criada para reduzir os efeitos da **poluição de plásticos** no meio ambiente, através do **engajamento/coleta/recompensa** por parte de **cidadãos e empreendimentos**. Link para visualizar o projeto contendo Processos, User Stories e mais: https://github.com/RenanMeirelles/zero-pollution-bsic.
+
 
 ## Certificados e Cursos
 - [CERTIFIED BUSINESS PROCESS PROFESSIONAL - CBPP®](https://drive.google.com/file/d/1wO14MkJBsaekBg_fLj6b9usjtSST1ZnH/view)
 - [SCRUM FUNDAMENTALS CERTIFIED](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RenanGirottoMeirelles-786196.pdf)
 - [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
+
 
 # Habilidades / Skills!
 
@@ -142,17 +151,6 @@ METODOLOGIAS DE TRABALHO
 - Experiência em **trabalho remoto**;
 - Experiência em trabalhos com **equipes 100% ou parcialmente remotas**;
 - Já trabalhei por anos no modelo Waterfall, mas dou preferência para agilidade.
-
-# Certificações e Cursos
-
-- Certified Business Process Professional - CBPP - Bootcamp [ABPMP](https://www.abpmp-br.org/);
-- Treinamento JIRA Atlassian com E-Core Business - [CERTIFICADO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93785392_682286872599225_3796115022187331584_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=Xsxwnsytto0AX83jgxU&_nc_ht=scontent.fvcp2-1.fna&oh=2e05a3a0767f9d8eec62840f21c950df&oe=5EBE7EE5)
-- Curso UML- UNIFIED MODEL LANGUAGE (Análise Orientada a Objetos) – Cubo Tecnologia;
-- Curso básico de BPMN 2.0 (Business Process Management Notation), utilizando a ferramenta TIBCO;
-- Curso básico de JBPM – Integração de Java com Business Process Management, utilizando a ferramenta “Modeler” do Eclipse Ganymede;
-- Treinamento IBM BR, SWG, WebSphere: Stew BPM 8.5 (Event);
-- Treinamento Oracle SOA Suite 11g Implementation Boot Camp + Certificação;
-- Treinamento Avançado Ethereum - Solange Gueiros - Blockchain Academy
 
 
 # Ferramentas | Tools

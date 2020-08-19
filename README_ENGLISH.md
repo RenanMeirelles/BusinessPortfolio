@@ -1,6 +1,7 @@
 ## Welcome to my Portfolio!
 
 Hey, visitor!
+
 I'm **Renan Meirelles**, 30, from Brazil! 
 I've been working with Technology for more than 10 years - more specifically as a **Business Process Management professional (CBPP Certified)**. I can fill roles as UX and even Product Owner - cross functional. I have solid knowledge about **Ethereum blockchain** and other traditional technologies - BPMS, ECM, SmartCities, SOA and more.
 My graduation was in **Technology for Business Management at FATEC-SP** (a Technologist institution of São Paulo state).
@@ -23,7 +24,7 @@ If you want to check my **Linkedin Profile**, just click the button below! You c
 ```sh
 BPM - Business Process Management
 ```
-[![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
+[![Imagem BPM](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_BPM.png)](https://www.process.st/benefits-of-bpm-business-process-management/)
 
 **Business Process Management** is a discipline that aims to organize and align **end to end** processes of an organization with its customers (from the inside out) and even insider processes (reduce costs, bottlenecks and more). In BPM there is a whole **cycle**, going through the **understanding of the organizational structure, design, analysis, implementation, control, transformation**, among other steps that may or may not occur. Currently, this discipline is strongly aligned with the **TECHNOLOGY** factor. Without a good analysis of processes, it is not possible to implement systems that are 100% adherent to the business. Processes prevent you from purchasing extremely expensive software licenses that do not suit your business. BPM can be used for both control and operation systems and application development!
 
@@ -41,12 +42,6 @@ BPM - Business Process Management
 - Easy identification of **bottlenecks** and proposition of **quick and viable solutions**;
 - Knowledge of **various types of solutions** that can serve the business in the best possible way, **preventing the customer** from hiring very **expensive solutions without a real return to the business**.
 
-| BPM Project | Link |
-| ------ | ------ |
-| Agricultural Defense - Farming and Epidemics (Smart Cities) | [As Is and To Be in the same BPM file](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
-|City Operational Contro Center (Smart Cities) | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) and [TO BE] |
-| Hackathon - Blockchain for Social Impact (Consensys) - Plastics and Pollution | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
-
 | BPM Projects | Link |
 | ------ | ------ |
 | Congress Administration | publish |
@@ -63,31 +58,38 @@ BPM - Business Process Management
 
 
 ```sh
-PRODUCT REQUIREMENTS
+PRODUCT AND USER EXPERIENCE
 ```
 ![Imagem Produtos](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83929242_2603629596579693_5556888288825966592_n.png?_nc_cat=104&_nc_ohc=w1sumAMjb1sAX9PaKXR&_nc_ht=scontent.fvcp2-1.fna&oh=a75fa8701f203e341c7ee654d9648e02&oe=5EC68458)
 
-From a good **understanding of the business**, achieved through BPM, it is possible to identify **what is needed** for the development of a system or application. At that moment, the identification of the **Epics (modules)**, **User Stories (Use Cases)**, **Information models,** **Prototypes** comes into play, among other requirements necessary for an **idea** is **transformed into code** and **value** for the customer / user!
+From a good **understanding of the business**, achieved (or not) through BPM, it's possible to identify **what is needed** for the development of a system or application. At that moment, the identification of the **Epics (modules)**, **User Stories (Use Cases)**, **Information models,** **Wireframes/Prototypes** comes into play, among other requirements necessary for an **idea** is **transformed into code** and **value** for the customer / user! - today it's a mix of **User Experience and Product Owner!**
 
-- Identificação de **Escopo** do projeto ou produto (Big Picture);
-- Identificação e especificação de **Requisitos Não Funcionais**;
-- Identificação e especificação dos **Módulos**, ou mais conhecidos atualmente como **Épicos**;
-- Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
-- Identificação e especificação completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
-- Elaboração dos **Wireframes/Protótipos** em cima dos requisitos já especificados;
-- Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
-- Elaboração de **cenários de Testes** utilizando linguagem apropriada conforme necessário (Casos de Testes ou BDD);
+**Techniques and approaches used in the specification of Products (Requirements):**
+
+- Initial ideation through practices such as **Design Thinking and Lean Inception (MVP)**;
+- **Scope** identification of the project or product (Big Picture);
+- Identification and definition of **Epics**, aka "Modules" - large groups of features;
+- Identification of **Value Propositions** and definition of **MVP** (Minimum Viable Product);
+- Creation and management of **Product Backlog**;
+- Full identification and definition of **User Stories / Use Cases** (Functional Req.);
+- **Design Thinking** or **JAD** approach to elucidate product requirements;
+- Identification and specification of **Non-Functional Requirements**;
+- Definition of **Wireframes** (low fidelity) trhough the specified reqs;
+- Documentation containing the **7 Product Dimensions (New)**;
+- Definition of **Test/Behavior scenarios** using language as needed (Test Cases or BDD);
 
 | Project Documentation  | Link |
 | ------ | ------ |
-|  | [teste](http://grupoassessor.com/smart-cities/) |
-|  | PUBLICAR |
-|  | PUBLICAR |
+| Hackathon - Blockchain for Social Impact Consensys - Plastics and Pollution | [User Stories and Wireframes](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |
+| Decentralized Identity Provider (blockchain) | publish 7 dimensions docs |
+| Decentralized | publish 7 dimensions docs |
+| Decentralized | publish 7 dimensions docs |
+| Decentralized | publish 7 dimensions docs |
 
 ```sh
 BLOCKCHAIN
 ```
-![Imagem Blockchain Authentic Renan Meirelles](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/85151773_1075182562865917_854195894831022080_n.png?_nc_cat=104&_nc_ohc=Fs2RnssWfdIAX9WKNbf&_nc_ht=scontent.fvcp2-1.fna&oh=7785c3a83a11603b75601edc54f8234b&oe=5ED374B5)
+![Imagem Blockchain Authentic Renan Meirelles](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Blockchain2.png)
 
 Blockchain is a distributed registration technology that aims at **decentralization** as a security measure. These are distributed and shared databases and records that have the function of creating a global index for all transactions that take place in a given market. It works as a ledger, only in a public, shared and universal way, which creates **consensus and trust** in direct communication between **two parties (P2P), that is, without the intermediary of third parties**. The blockchain concept has been evolving since the early 2000s, being leveraged by the Bitcoin boom. However, much is yet to come - the concept of **SmartContracts** created through the **Ethereum blockchain and currently present in other private and public blockchains -** is expanding the market for this technology. **DApps (Decentralized Applications)** are being created to facilitate user interaction with this new world of **Web3.0** that is just beginning.
 

@@ -71,6 +71,7 @@ From a good **understanding of the business**, achieved (or not) through BPM, it
 - Identification and definition of **Epics**, aka "Modules" - large groups of features;
 - Identification of **Value Propositions** and definition of **MVP** (Minimum Viable Product);
 - Creation and management of **Product Backlog**;
+- Agile Methodology - **Scrum and Kanban**;
 - Full identification and definition of **User Stories / Use Cases** (Functional Req.);
 - **Design Thinking** or **JAD** approach to elucidate product requirements;
 - Identification and specification of **Non-Functional Requirements**;
@@ -93,23 +94,24 @@ BLOCKCHAIN
 
 Blockchain is a distributed registration technology that aims at **decentralization** as a security measure. These are distributed and shared databases and records that have the function of creating a global index for all transactions that take place in a given market. It works as a ledger, only in a public, shared and universal way, which creates **consensus and trust** in direct communication between **two parties (P2P), that is, without the intermediary of third parties**. The blockchain concept has been evolving since the early 2000s, being leveraged by the Bitcoin boom. However, much is yet to come - the concept of **SmartContracts** created through the **Ethereum blockchain and currently present in other private and public blockchains -** is expanding the market for this technology. **DApps (Decentralized Applications)** are being created to facilitate user interaction with this new world of **Web3.0** that is just beginning.
 
+**Techniques and approaches used in Blockchain Projects:**
 
-- Documentação de **Processos de Negócios** identificando partes do processo onde seja interessante a **utilização de Blockchain**, tanto **pública** quanto **permissionada**;
-- Especificação de **requisitos (Histórias de Usuários)** de **dApps**, interagindo com a Blockchain;
-- Conhecimento em produtos e protocolos de **Identidade Descentralizada** em Blockchain (Decentralized Identity);
-- Conhecimento em produtos e protocolos de **MarketPlace** e **DeFi** em Blockchain (preferencialmente **Ethereum**);
-- Especificação de solução para geração de **Carteiras Ethereum** utilizando métodos de criptografia e geração de chaves privadas;
-- Especificação de solução para **Indexação de Conteúdo** na blockchain (**IPFS**) e plataforma de **Busca** desses conteúdos (parecido com Google);
-- Conhecimento e especificação (documentação) de **Tokens Ethereum** nos padrões **ERC20 e ERC223** - definição de Roles, funções padrão, funções próprias do negócio;
-- Testes e documentação em **SmartContracts** e **Tokens** utilizando **Remix, Etherscan e Truffle**;
-- Documentação de **API Gateways** para Bitcoin e para Ethereum;
-- Elaboração de **Whitepapers** dos projetos desenvolvidos e **Landing Pages**;
-- Conhecimento sobre **plataformas, protocolos e soluções descentralizadas** que agregam muito valor aos projetos Blockchain: 
-    -  **Infraestrutura**: IPFS, Storj, Swarm, ENS, Mainframe, Handshake, Ocean Protocol, LibP2P...
-    -  **Identidade**: uPort, Civic, Kimlic, OriginalMy, Bloom . . . 
+- Documentation of **Business Processes** focused on blockchain solutions (public and private) - **DApps, Ecosystems, Platforms...**;
+- Specification of **requirements (User Stories)** for **DApps and more**, interacting with **Smart Contracts**;
+- Knowledge of **Decentralized Identity** products and protocols (Ethereum - Decentralized Identity);
+- Knowledge of **MarketPlaces** and **DeFi** products and protocols in Ethereum;
+- Specification of **Ethereum Wallet Generator**, using encryption methods and generation of private keys;
+- Specification of solution for **Web3 Content Publishers** using **IPFS** connected to **Search** platforms for browsing (similar to Google);
+- Knowledge and specification of **Ethereum Tokens** in standards **ERC20 and ERC223** - Definition of Roles, standard functions, specific functions;
+- **Tests and documentation of SmartContracts** and **Tokens** using **Remix, Etherscan and Truffle**;
+- **API Gateway** documentation for Bitcoin and Ethereum;
+- Preparation of **Whitepapers** of developed projects and **Landing Pages**;
+- Knowledge about many **platforms, protocols and decentralized solutions** that add value to Blockchain projects:
+    - **Infrastructure**: IPFS, Storj, Swarm, ENS, Mainframe, Handshake, Ocean Protocol, LibP2P ...
+    -  **Identity (DID)**: uPort, Civic, Kimlic, OriginalMy, Bloom . . . 
     -  **MarketPlace**: OpenBazaar
-    -  **Governança e Organizações**: Aragon, Democracy Earth, District0x . . .
-    -  **Plataformas Descentralizadas**: Bounties Network, ...
+    -  **Governance and DAOs**: Aragon, Democracy Earth, District0x . . .
+    -  **Decentralized Blockchain Communities - Work Platforms**: Bounties Network, Gitcoin
     -  **Tokens**: OpenZeppelin
     
 | Blockchain Project | Link |

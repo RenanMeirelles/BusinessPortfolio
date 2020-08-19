@@ -1,11 +1,22 @@
 ## Welcome to my Job Portfolio!
 
 Hey, visitor!
-I'm Renan Meirelles, from brazil, and despite of being only 30 years old, I've been working on the Technology area for more than 10 years - more specifically as a **Business Process Management professional (CBPP Certified)**. My graduation was in **Technology for Business Management at FATEC-SP** (a Technologist institution of São Paulo state). My subsequent graduations were the experiences i've been living trough those years. Those details I'll tell you below, in this same document!
+I'm **Renan Meirelles**, 30, from Brazil! 
+I've been working on the Technology area for more than 10 years - more specifically as a **Business Process Management professional (CBPP Certified)**. I can fill roles as UX and even Product Owner - cross functional. I have solid knowledge about **Ethereum blockchain** and other traditional technologies - BPMS, ECM, SmartCities, SOA and more.
+My graduation was in **Technology for Business Management at FATEC-SP** (a Technologist institution of São Paulo state).
 If you want to check my **Linkedin Profile**, just click the button below! You can send me a message that I'll answer! You can DM me there or send me an e-mail to **meirelles.biz@gmail.com**!
 
+[![Linkedin](https://esoterictradingsolutions.com.au/wp-content/uploads/View-my-LinkedIn-Profile.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
-[![Linkedin](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/83896920_630999031008245_1134907814766968832_n.png?_nc_cat=106&_nc_ohc=UGkaxYLiu6MAX-Wi9P8&_nc_ht=scontent.fvcp2-1.fna&oh=6fdb1e508658a2fbffdad9617eff875c&oe=5ED9FFE1)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
+## Awards
+- [1º colocado Blockchain for Social Impact Incubator 2020 (Hackathon) - Desafio Plastics and Pollution](https://blockchainforsocialimpact.com/incubator-winners-2020/)
+
+**Social impact** blockchain solution created to reduce the effects of **plastic pollution** on the environment, through **engagement/collection/reward** by **citizens and enterprises**. Link to view the project containing Processes, User Stories and more: [GitHub Project Repo](https://github.com/RenanMeirelles/zero-pollution-bsic).
+
+## Certificates and +
+- [CERTIFIED BUSINESS PROCESS PROFESSIONAL - CBPP®](https://drive.google.com/file/d/1wO14MkJBsaekBg_fLj6b9usjtSST1ZnH/view)
+- [SCRUM FUNDAMENTALS CERTIFIED](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RenanGirottoMeirelles-786196.pdf)
+- [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
 
 # Skills!
 

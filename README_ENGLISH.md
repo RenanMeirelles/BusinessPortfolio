@@ -1,4 +1,4 @@
-## Welcome to my Job Portfolio!
+## Welcome to my Portfolio!
 
 Hey, visitor!
 I'm **Renan Meirelles**, 30, from Brazil! 

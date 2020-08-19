@@ -2,7 +2,7 @@
 
 Hey, visitor!
 I'm **Renan Meirelles**, 30, from Brazil! 
-I've been working on the Technology area for more than 10 years - more specifically as a **Business Process Management professional (CBPP Certified)**. I can fill roles as UX and even Product Owner - cross functional. I have solid knowledge about **Ethereum blockchain** and other traditional technologies - BPMS, ECM, SmartCities, SOA and more.
+I've been working with Technology for more than 10 years - more specifically as a **Business Process Management professional (CBPP Certified)**. I can fill roles as UX and even Product Owner - cross functional. I have solid knowledge about **Ethereum blockchain** and other traditional technologies - BPMS, ECM, SmartCities, SOA and more.
 My graduation was in **Technology for Business Management at FATEC-SP** (a Technologist institution of São Paulo state).
 If you want to check my **Linkedin Profile**, just click the button below! You can send me a message that I'll answer! You can DM me there or send me an e-mail to **meirelles.biz@gmail.com**!
 

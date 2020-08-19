@@ -9,7 +9,7 @@ If you want to check my **Linkedin Profile**, just click the button below! You c
 [![Linkedin](https://esoterictradingsolutions.com.au/wp-content/uploads/View-my-LinkedIn-Profile.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
 
 ## Awards
-- [1º colocado Blockchain for Social Impact Incubator 2020 (Hackathon) - Desafio Plastics and Pollution](https://blockchainforsocialimpact.com/incubator-winners-2020/)
+- [Winner of the Blockchain for Social Impact Incubator 2020 (Hackathon) - Plastics and Pollution Challenge](https://blockchainforsocialimpact.com/incubator-winners-2020/)
 
 **Social impact** blockchain solution created to reduce the effects of **plastic pollution** on the environment, through **engagement/collection/reward** by **citizens and enterprises**. Link to view the project containing Processes, User Stories and more: [GitHub Project Repo](https://github.com/RenanMeirelles/zero-pollution-bsic).
 

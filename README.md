@@ -30,7 +30,8 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 ```
 [![Imagem BPM](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_BPM.png)](https://www.process.st/benefits-of-bpm-business-process-management/)
 
-**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com foco em seus clientes (de dentro para fora). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não - fica a cargo do cliente. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+**Gerenciamento de Processos de Negócio (BPM)** é uma disciplina gerencial que tem como objetivo organizar e alinhar os **processos ponta a ponta** de uma organização com foco em seus clientes (de dentro para fora) e também interno (redução de custos, gargalos, dentre outros). No BPM existe todo um **ciclo**, passando pelo entendimento da estrutura organizacional, desenho, análise, implementação, controle, transformação, dentre outras etapas que podem ocorrer ou não - depende das suas necessidades. Atualmente, essa disciplina está fortemente ligada ao fator **TECNOLOGIA**. Sem uma boa análise de processos, não é possível implementar sistemas que sejam 100% aderentes ao negócio. Processos evitam que você adquira licenças de softwares extremamente caros que não se adaptam ao seu negócio. Isso serve tanto para sistemas de controle e operação quanto para desenvolvimento de aplicativos!
+
 **Técnicas e abordagens usadas no BPM:**
 
 - **Estudo** do mercado em que o cliente está inserido e de documentações iniciais;
@@ -39,11 +40,12 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 - **Modelagem** da visão **Macro do processo** e **Cadeia de Valor Agregado** se necessário;
 - **Condução de reuniões** para **levantamento de processos**;
 - Nível avançado de **modelagem de processo** na notação **BPMN2.0** - rápido e completo;
-- Detalhamento completo dos processos (descrições, eventos, atores, sistemas envolvidos, integrações, etc - dependendo da demanda);
+- **Detalhamento completo** dos processos (descrições, eventos, atores, sistemas envolvidos, integrações, etc - dependendo da demanda);
 - Modelagem de processos **As Is (se necessário) e To Be** **com ou sem** foco em **implementação de sistemas**;
 - **Modelagem de processos** voltados para diversas tecnologias, como **Blockchain, Integrações, Microsserviços, Smart Cities, sistemas tradicionais**, dentre outros;
 - Identificação de **gargalos** e proposição de **soluções rápidas** e **viáveis**;
-- Conhecimento de **diversos tipos de soluções** que possam atender ao negócio da melhor maneira possível, evitando que o cliente contrate soluções muito caras sem um retorno real ao negócio.
+- Identificação e definição de **KPI's** que agregam valor ao lado analítico do processo;
+- **Simulação de diferentes cenários dos Processos** através da ferramenta BizAgi, permitindo fazer testes com recursos, tempo e outras variáveis do processo;
 
 | BPM Projects | Link |
 | ------ | ------ |
@@ -73,11 +75,11 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Identificação e estudo de **Escopo** do projeto ou produto (Big Picture);
 - Identificação e definição dos **Épicos**, conhecidos anteriormente como "Módulos" - grandes grupos de funcionalidades;
 - Identificação das **Propostas de Valor** e definição do **MVP** (Produto Mínimo Viável);
-- Criação de **priorização do Backlog**;
+- Criação e gestão do **Product Backlog**;
 - Identificação e definição completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
 - Identificação e especificação de **Requisitos Não Funcionais**;
-- Elaboração dos **Wireframes** (sem Identidade Visual) em cima dos requisitos já especificados;
+- Elaboração dos **Wireframes** (baixa fidelidade) em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
 - Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
 

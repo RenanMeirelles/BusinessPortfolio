@@ -25,7 +25,9 @@ BPM - Business Process Management
 ```
 [![Imagem BPM](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/84242789_185779205859186_5656612997032837120_n.png?_nc_cat=111&_nc_ohc=MyxZ4QIrxGgAX8V_MTn&_nc_ht=scontent.fvcp2-1.fna&oh=d6175b1a60af842052feb03b273cf5ef&oe=5EFEA1AC)](https://www.process.st/benefits-of-bpm-business-process-management/)
 
-**Business Process Management** is a discipline that aims to organize and align **end to end** processes of an organization with its customers (from the inside out). In BPM there is a whole **cycle**, going through the **understanding of the organizational structure, design, analysis, implementation, control, transformation**, among other steps that may or may not occur. Currently, this discipline is strongly linked to the **TECHNOLOGY** factor. Without a good analysis of processes, it is not possible to implement systems that are 100% adherent to the business. This goes for both control and operation systems and application development!
+**Business Process Management** is a discipline that aims to organize and align **end to end** processes of an organization with its customers (from the inside out) and even insider processes (reduce costs, bottlenecks and more). In BPM there is a whole **cycle**, going through the **understanding of the organizational structure, design, analysis, implementation, control, transformation**, among other steps that may or may not occur. Currently, this discipline is strongly aligned with the **TECHNOLOGY** factor. Without a good analysis of processes, it is not possible to implement systems that are 100% adherent to the business. Processes prevent you from purchasing extremely expensive software licenses that do not suit your business. BPM can be used for both control and operation systems and application development!
+
+**Techniques and approaches used in BPM:**
 
 - **Study** of the market in which the customer is inserted and initial **documentation**;
 - **Business Meetings** for understanding the client's **needs / goals**;
@@ -44,6 +46,22 @@ BPM - Business Process Management
 | Agricultural Defense - Farming and Epidemics (Smart Cities) | [As Is and To Be in the same BPM file](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)  |
 |City Operational Contro Center (Smart Cities) | [AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) and [TO BE] |
 | Hackathon - Blockchain for Social Impact (Consensys) - Plastics and Pollution | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0 |
+
+| BPM Projects | Link |
+| ------ | ------ |
+| Congress Administration | publish |
+| Secretary of Culture | publish |
+| Secretary of State for Education - Value Chain | publish |
+| Secretary of State for Education - School Lunch Management | publish |
+| Housing and Urban Development Company | publish |
+| Control and Operations Center Process - Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
+| Engineering and Technology - Building Engineering Processes of a Banking Group | publish |
+| Agricultural Defense - Farming and Epidemics (Smart Cities) | [As Is and To Be in the same BPM file](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
+| Secretariat of Public Management | publish |
+| Department of Public Safety | publish |
+| Hackathon - Blockchain for Social Impact Consensys - Plastics and Pollution|[TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0|
+
+
 ```sh
 PRODUCT REQUIREMENTS
 ```

@@ -47,20 +47,6 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 - Identificação e definição de **KPI's** que agregam valor ao lado analítico do processo;
 - **Simulação de diferentes cenários dos Processos** através da ferramenta BizAgi, permitindo fazer testes com recursos, tempo e outras variáveis do processo;
 
-| BPM Projects | Link |
-| ------ | ------ |
-| Assembleia Legislativa do Estado | PUBLICAR |
-|Secretaria de Cultura | PUBLICAR |
-| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
-| Secretaria de Estado da Educação - Merenda | PUBLICAR |
-| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
-|Processos Centro de Controle e Operações - Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
-| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | PUBLICAR |
-|Processos Defesa Agropecuária Estadual - Smart Cities |[As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
-| Secretaria de Gestão Pública | PUBLICAR |
-| Secretaria de Segurança Pública | PUBLICAR |
-|Hackathon - Blockchain for Social Impact Consensys - Plásticos e Poluição|[TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) V1.0|
-
 
 ```sh
 REQUISITOS DE PRODUTO
@@ -84,10 +70,6 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
 - Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
 
-| Project Documentation  | Link |
-| ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys) | [User Stories](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |
-| Incluir Requisitos Blockchain - ID, Plataforma e outros  | PUBLICAR |
 
 
 ```sh
@@ -117,14 +99,6 @@ Blockchain é uma tecnologia de registro distribuído que visa a **descentraliza
     -  **Comunidades Blockchain - Plataformas para Trabalho**: Bounties Network, Gitcoin
     -  **Tokens**: OpenZeppelin
     
-| Blockchain Project | Link |
-| ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
-| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
-| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
-| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
-
 ```sh
 SMART CITIES
 ```
@@ -139,12 +113,27 @@ SMART CITIES
 - Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
 - Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
 
-| Smart Cities Project | Link |
-| ------ | ------ |
+| Project Description | Segment | BPM Model | User Stories | Wireframes |
+| ------ | ------ | ------ | ------ | ------ |
+| Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
+|Processos Centro de Controle e Operações - Smart Cities |Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
+| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
+| Secretaria de Estado da Educação - Merenda | PUBLICAR |
+| Assembleia Legislativa do Estado | PUBLICAR|||
+|Secretaria de Cultura | PUBLICAR |||
+| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
+| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | PUBLICAR |
+|Processos Defesa Agropecuária Estadual | Smart Cities | LINK | User Stories | Wireframes| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
+| Secretaria de Gestão Pública | PUBLICAR |
+| Secretaria de Segurança Pública | PUBLICAR |
+| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
+| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
+| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
+| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
+| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
 | Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
 | Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
 | Traffic Monitoring Agency | PUBLICAR |
-
 
 ```sh
 METODOLOGIAS DE TRABALHO

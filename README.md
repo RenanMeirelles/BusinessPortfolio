@@ -23,7 +23,7 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 - [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
 
 ## TABELA DE CONTEÚDOS
-| Project Description | Segment | BPM Model | User Stories | Wireframes |
+| Project Description | Segment | BPM Model | User Stories and + | Wireframes |
 | ------ | ------ | ------ | ------ | ------ |
 | Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
 |Processos Centro de Controle e Operações - Smart Cities |Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|

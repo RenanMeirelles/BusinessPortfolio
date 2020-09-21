@@ -25,11 +25,10 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 ## TABELA DE CONTEÚDOS
 | Project Description | Segment | BPM Model | User Stories and + | Wireframes |
 | ------ | ------ | ------ | ------ | ------ |
-| [Hackathon - Blockchain for Social Impact]  | Blockchain Product Ideation | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Repositório de Documentos](https://github.com/RenanMeirelles/zero-pollution-bsic)) |[Wireframes Baixa Fidelidade](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
+| Hackathon - Blockchain for Social Impact - Plastics Pollution  | Blockchain Product Ideation | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Repositório](https://github.com/RenanMeirelles/zero-pollution-bsic)) |[Figma Link](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
 | Identidade Descentralizada (DID) | Blockchain Product Ideation | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
-| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| Blockchain Product Ideation|  [PUBLICAR]() |
-| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 | Blockchain Product Ideation |
+| Negociação de Domínios e TopLevelDomain Web3.0 (Name Service)| Blockchain Product Ideation|  [PUBLICAR] |
+| Indexação e Busca de Conteúdo na Web3.0 | Blockchain Product Ideation |||
 | Centro de Controle e Operações | Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
 |Processos Defesa Agropecuária Estadual | Smart Cities | - | - | -| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
 | Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |

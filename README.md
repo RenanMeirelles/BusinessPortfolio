@@ -25,25 +25,25 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 ## TABELA DE CONTEÚDOS
 | Project Description | Segment | BPM Model | User Stories and + | Wireframes |
 | ------ | ------ | ------ | ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
-|Processos Centro de Controle e Operações - Smart Cities |Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
-| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | IBM Tririga Implementation |
+| Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain Product Ideation | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
+| Identidade Descentralizada (DID) | Blockchain Product Ideation | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
+| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| Blockchain Product Ideation|  [PUBLICAR]() |
 | Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
-| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
-|Processos Defesa Agropecuária Estadual | Smart Cities | LINK | User Stories | Wireframes| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
-| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
+| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 | Blockchain Product Ideation |
+| Centro de Controle e Operações | Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
+|Processos Defesa Agropecuária Estadual | Smart Cities | - | - | -| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
 | Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
-| Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
+| Processos Defesa Agropecuária - IBM IOC |Smart Cities | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
 | Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
-| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
-| Secretaria de Estado da Educação - Merenda | PUBLICAR |
+| Secretaria de Estado da Educação | Business Process Management |||
+| Secretaria de Estado da Educação - Merenda | Business Process Management |||
 | Assembleia Legislativa do Estado | PUBLICAR|||
-| Secretaria de Cultura | PUBLICAR |||
-| Secretaria de Segurança Pública | PUBLICAR |
-| Traffic Monitoring Agency | PUBLICAR |
-| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
-| Secretaria de Gestão Pública | PUBLICAR |
+| Secretaria de Cultura | Business Process Management |||
+| Secretaria de Segurança Pública | Business Process Management |
+| Traffic Monitoring Agency | Smart Cities |
+| Companhia de Desenvolvimento Habitacional e Urbano | Business Process Management |
+| Secretaria de Gestão Pública | Business Process Management |||
+| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | IBM Tririga Implementation |
 
 # Habilidades / Skills!
 

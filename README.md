@@ -4,9 +4,9 @@
 
 E aí, visitante!
 
-Sou **Renan Meirelles**, brasileiro, 30 anos. 
-Trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certif. CBPP**). Posso designar perfis desde UX e até mesmo Product Owner - atravessando funções. Tenho bom conhecimento em **blockchain Ethereum** e diversas outras tecnologias - sistemas "tradicionais", ERP, BPMS e ECM, SmartCities, Integrações e SOA, dentre outros. 
-Sou formado em Informática para Gestão de Negócios pela **FATEC** - Faculdade de Tecnologia de **São Paulo**.
+Sou **Renan Meirelles**, brasileiro, 30 anos, formado em Informática para Gestão de Negócios pela **FATEC - Faculdade de Tecnologia de SP**.
+Trabalho há mais de **10 anos** na área de Tecnologia - mais especificamente como **Analista de Processos de Negócios** (**certificado CBPP**). Ao longo de minha carreira absorvi conhecimentos complementares, permitindo que atuasse facilmente como **Analista de Requisitos, UX, Product Owner**. Tenho um ótimo conhecimento em diversas tecnologias (sistemas "tradicionais", ERP, BPMS e ECM, SmartCities, Integrações e SOA). Atualmente tenho atuado de maneira autônoma em projetos voltados para **blockchain Ethereum** e também na **Ideação de Aplicativos**.
+
 Se preferir dar uma olhada no meu perfil no **LinkedIn** basta clicar abaixo. Se quiser pode entrar em contato por lá ou **meirelles.biz@gmail.com**!
 
 [![Linkedin](https://esoterictradingsolutions.com.au/wp-content/uploads/View-my-LinkedIn-Profile.png)](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/)
@@ -22,6 +22,28 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 - [SCRUM FUNDAMENTALS CERTIFIED](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RenanGirottoMeirelles-786196.pdf)
 - [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
 
+## TABELA DE CONTEÚDOS
+| Project Description | Segment | BPM Model | User Stories | Wireframes |
+| ------ | ------ | ------ | ------ | ------ |
+| Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
+|Processos Centro de Controle e Operações - Smart Cities |Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
+| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
+| Secretaria de Estado da Educação - Merenda | PUBLICAR |
+| Assembleia Legislativa do Estado | PUBLICAR|||
+|Secretaria de Cultura | PUBLICAR |||
+| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
+| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | PUBLICAR |
+|Processos Defesa Agropecuária Estadual | Smart Cities | LINK | User Stories | Wireframes| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
+| Secretaria de Gestão Pública | PUBLICAR |
+| Secretaria de Segurança Pública | PUBLICAR |
+| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
+| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
+| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
+| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
+| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
+| Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
+| Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
+| Traffic Monitoring Agency | PUBLICAR |
 
 # Habilidades / Skills!
 
@@ -49,7 +71,7 @@ BPM - Business Process Management (Gerenciamento de Processos de Negócios)
 
 
 ```sh
-REQUISITOS DE PRODUTO
+IDEAÇÃO DE PRODUTOS
 ```
 ![Imagem Produtos](https://raw.githubusercontent.com/RenanMeirelles/BusinessPortfolio/master/Images/Portfolio_Product2.png)
 
@@ -66,7 +88,7 @@ A partir de um bom **entendimento do negócio**, atingido através do BPM, é po
 - Identificação e definição completa das **Histórias de Usuários ou Casos de Uso** (Req. Funcionais);
 - Abordagem **Design Thinking** ou **JAD** para elucidar os requisitos do produto;
 - Identificação e especificação de **Requisitos Não Funcionais**;
-- Elaboração dos **Wireframes** (baixa fidelidade) em cima dos requisitos já especificados;
+- Elaboração dos **Wireframes** (baixa/média fidelidade) em cima dos requisitos já especificados;
 - Elaboração de documento contendo as **7 Dimensões do Produto (Novidade)**;
 - Elaboração de **cenários de Testes** utilizando linguagem conforme necessário (Casos de Testes ou BDD);
 
@@ -113,27 +135,6 @@ SMART CITIES
 - Especificação de regras e dos **Requisitos funcionais** para implementação da operação;
 - Elaboração de **material para treinamento** das operações nas **Salas de Situação**;
 
-| Project Description | Segment | BPM Model | User Stories | Wireframes |
-| ------ | ------ | ------ | ------ | ------ |
-| Hackathon - Blockchain for Social Impact (Consensys)  | Blockchain | [TO BE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Click Here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification)) |[Click Here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
-|Processos Centro de Controle e Operações - Smart Cities |Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
-| Secretaria de Estado da Educação - Cadeia de Valor | PUBLICAR |
-| Secretaria de Estado da Educação - Merenda | PUBLICAR |
-| Assembleia Legislativa do Estado | PUBLICAR|||
-|Secretaria de Cultura | PUBLICAR |||
-| Companhia de Desenvolvimento Habitacional e Urbano | PUBLICAR |
-| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | PUBLICAR |
-|Processos Defesa Agropecuária Estadual | Smart Cities | LINK | User Stories | Wireframes| [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list)|
-| Secretaria de Gestão Pública | PUBLICAR |
-| Secretaria de Segurança Pública | PUBLICAR |
-| Hackathon - Blockchain for Social Impact (Consensys)|  [Repositório do Projeto](https://github.com/RenanMeirelles/zero-pollution-bsic) e [Processo de Negócios](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)  |
-| Identidade Descentralizada (DID) | [Processos TO BE com Wireframes e Regras de Negócio nas descrições de atividades](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) |
-| Compra e Venda de Domínios e TopLevelDomain Web3.0 (Name Service)| [PUBLICAR]() |
-| Ferramentas de Indexação e Busca de Conteúdo na Web3.0 |  |
-| Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
-| Processos Defesa Agropecuária - IBM IOC | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
-| Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
-| Traffic Monitoring Agency | PUBLICAR |
 
 ```sh
 METODOLOGIAS DE TRABALHO
@@ -152,7 +153,7 @@ Abaixo listo algumas ferramentas que já mexi ou tenho certa experiência:
 
   - **BizAgi** - vasta experiência!Utilizei em mais de 90% dos projetos que passei. Com ele consigo gerar uma documentação completíssima da solução em arquivo navegável;
   - **Atlassian** - vasta experiência em documentação utilizando o **Confluence**; vasta experiência utilizando o **JIRA** para gestão das squads (Scrum e Kanban); experiência em acompanhamento dos códigos no **BitBucket**; 
-  - **Outras ferramentas de BPM** e outros tipos de diagramação - TIBCO, IBM BPM, ARIS, Oracle 11g, Bonita Soft, Draw.io, dentre outros;
+  - **Outras ferramentas de BPM** e outros tipos de diagramação - TIBCO, IBM BPM, ARIS, Oracle 11g, Bonita Soft, Draw.io, Lucid Chart, dentre outros;
   - **Especificação** - Caliber, Enterprise Architect, e documentação no pacote Office;
   - **Ferramentas para Gestão** - **JIRA e Trello (Atlassian) e pacote Office (Project, Planilhas, etc);
   - **Prototipação** - Figma, Pencil, Draw.io, Pidoco e outros;
@@ -172,7 +173,7 @@ Para qualquer tipo trabalho que eu vá fazer, procuro sempre passar pelas seguin
 
 ### Artefatos / Entregáveis
 
-Alguns dos produtos provenientes do trabalho que executo são:
+Alguns dos outputs provenientes do trabalho que executo são:
 - **BPM**: 
          - Documentos de anotações de levantamentos;
          - Todas versões dos Modelos de Processos (As Is / To Be);

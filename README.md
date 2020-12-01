@@ -34,15 +34,15 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 | Modelo de API Gateway para conexão com Blockchain Ethereum e Bitcoin | [PUBLICAR]() |
 | Processos Defesa Agropecuária - IBM IOC |Smart Cities | [As Is e To Be no mesmo arquivo BPM](https://renanmeirelles.github.io/Smart%20Cities%20Models/Farming%20Monitoring/#list) |
 | Centro de Controle de Operações (Alagamentos, Deslizamentos de Terra, Acidentes, Quedas de Árvores...) | [**AS IS**](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e  [**TO BE**]  SOON|
-| Secretaria de Estado da Educação | Business Process Management |||
-| Secretaria de Estado da Educação - Merenda | Business Process Management |||
-| Assembleia Legislativa do Estado | PUBLICAR|||
-| Secretaria de Cultura | Business Process Management |||
-| Secretaria de Segurança Pública | Business Process Management |
-| Traffic Monitoring Agency | Smart Cities |
-| Companhia de Desenvolvimento Habitacional e Urbano | Business Process Management |
-| Secretaria de Gestão Pública | Business Process Management |||
-| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | IBM Tririga Implementation |
+| Secretaria de Estado da Educação | Business Process Management ||||
+| Secretaria de Estado da Educação - Merenda | Business Process Management ||||
+| Assembleia Legislativa do Estado | PUBLICAR||||
+| Secretaria de Cultura | Business Process Management ||||
+| Secretaria de Segurança Pública | Business Process Management ||||
+| Traffic Monitoring Agency | Smart Cities ||||
+| Companhia de Desenvolvimento Habitacional e Urbano | Business Process Management ||||
+| Secretaria de Gestão Pública | Business Process Management ||||
+| Engenharia e Tecnologia - Processos de Engenharia Predial do Grupo Bancário | IBM Tririga Implementation ||||
 
 # Habilidades / Skills!
 

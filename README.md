@@ -23,10 +23,10 @@ Solução blockchain de **impacto social** criada para reduzir os efeitos da **p
 - [JIRA Advanced Training (Atlassian)](https://drive.google.com/file/d/1PIpi2nVHOcLWVRoDpKteJ0pW7obasbnf/view)
 
 ## TABELA DE CONTEÚDOS
-| Project Description | Segment | BPM Model | User Stories and + | Wireframes |
+| Project Page | Segment | BPM Model | User Stories and + | Wireframes |
 | ------ | ------ | ------ | ------ | ------ |
 | Hackathon - Blockchain for Social Impact - Plastics Pollution  | Blockchain Product Ideation | [Modelo BPM](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#diagram/0d17f7be-ebce-4091-b383-9fd6f6bf2a56) V1.0 | [Repositório](https://github.com/RenanMeirelles/zero-pollution-bsic) |[Figma Link](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom) |
-| Identidade Descentralizada (DID) | Blockchain Product Ideation | [Modelo BPM + Descrições + Telas](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) | User Stories e descrições dentro do Modelo BPM | Anexos de Telas dentro do modelo BPM |
+| [Identidade Descentralizada (DID)](https://github.com/RenanMeirelles/BusinessPortfolio/blob/master/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/DID.md) | Blockchain Product Ideation | [Modelo BPM + Descrições + Telas](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Identity/index.html#diagram/8c6fdf2d-0ab0-4bf7-b700-c80463639cc7) | User Stories e descrições dentro do Modelo BPM | Anexos de Telas dentro do modelo BPM |
 | Negociação de Domínios e TopLevelDomain Web3.0 (Name Service)| Blockchain Product Ideation|  [Modelo BPM + Descrições + Telas](https://renanmeirelles.github.io/Blockchain%20Models/Ethereum%20Projects/Decentralized-Name-Service/index.html#diagram/8e0debb6-c976-4c87-a66e-6533ec426bd8) | User Stories e descrições dentro do Modelo BPM | Anexos de Telas dentro do modelo BPM |
 | Indexação e Busca de Conteúdo na Web3.0 | Blockchain Product Ideation |||
 | Centro de Controle e Operações | Smart Cities |[AS IS](https://renanmeirelles.github.io/Smart%20Cities%20Models/City%20Op.%20Control%20-%20Agencies%20Integration/City%20Op.%20Control%20-%20As%20Is%20-%20Agencies/#list) e [TO BE]|
